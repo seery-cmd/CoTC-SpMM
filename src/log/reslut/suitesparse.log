@@ -1,0 +1,3384 @@
+test matrix = /data/seery/dataset/suitesparse_collection/bcsstk18/bcsstk18.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/bcsstk18/bcsstk18.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/bcsstk18/bcsstk18.mtx
+11948-11948-149090
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.052224ms	Nscore v1 Gflops:1461.666693
+timecost_cuda:0.082912ms	cuda core验证程序 Gflops:920.663858
+test matrix = /data/seery/dataset/suitesparse_collection/sinc15/sinc15.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/sinc15/sinc15.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/sinc15/sinc15.mtx
+11532-11532-568526
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.163840ms	Nscore v1 Gflops:1776.643795
+timecost_cuda:0.209792ms	cuda core验证程序 Gflops:1387.494794
+test matrix = /data/seery/dataset/suitesparse_collection/lowThrust_5/lowThrust_5.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/lowThrust_5/lowThrust_5.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/lowThrust_5/lowThrust_5.mtx
+16262-16262-198369
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.533504ms	Nscore v1 Gflops:190.373317
+timecost_cuda:0.755264ms	cuda core验证程序 Gflops:134.476064
+test matrix = /data/seery/dataset/suitesparse_collection/lowThrust_7/lowThrust_7.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/lowThrust_7/lowThrust_7.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/lowThrust_7/lowThrust_7.mtx
+17378-17378-211561
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.607232ms	Nscore v1 Gflops:178.381964
+timecost_cuda:0.810784ms	cuda core验证程序 Gflops:133.598140
+test matrix = /data/seery/dataset/suitesparse_collection/conf5_4-8x8-15/conf5_4-8x8-15.mtx
+Sorry, this application does not support Market Market type: [matrix coordinate complex general]
+Only sparse real-valued or pattern coordinate matrices are supported
+test matrix = /data/seery/dataset/suitesparse_collection/wing_nodal/wing_nodal.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/wing_nodal/wing_nodal.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/wing_nodal/wing_nodal.mtx
+10937-10937-150976
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.074752ms	Nscore v1 Gflops:1034.082151
+timecost_cuda:0.086048ms	cuda core验证程序 Gflops:898.332470
+test matrix = /data/seery/dataset/suitesparse_collection/g7jac040sc/g7jac040sc.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/g7jac040sc/g7jac040sc.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/g7jac040sc/g7jac040sc.mtx
+11790-11790-114671
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.057344ms	Nscore v1 Gflops:1023.848200
+timecost_cuda:0.090272ms	cuda core验证程序 Gflops:650.384956
+test matrix = /data/seery/dataset/suitesparse_collection/nopoly/nopoly.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/nopoly/nopoly.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/nopoly/nopoly.mtx
+10774-10774-70842
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.037888ms	Nscore v1 Gflops:957.324283
+timecost_cuda:0.057056ms	cuda core验证程序 Gflops:635.710616
+test matrix = /data/seery/dataset/suitesparse_collection/usps_norm_5NN/usps_norm_5NN.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/usps_norm_5NN/usps_norm_5NN.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/usps_norm_5NN/usps_norm_5NN.mtx
+11000-11000-81112
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.049152ms	Nscore v1 Gflops:844.916637
+timecost_cuda:0.073280ms	cuda core验证程序 Gflops:566.721404
+test matrix = /data/seery/dataset/suitesparse_collection/tsyl201/tsyl201.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/tsyl201/tsyl201.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/tsyl201/tsyl201.mtx
+20685-20685-2454957
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.240640ms	Nscore v1 Gflops:5223.312777
+timecost_cuda:0.828096ms	cuda core验证程序 Gflops:1517.865109
+test matrix = /data/seery/dataset/suitesparse_collection/bbmat/bbmat.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/bbmat/bbmat.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/bbmat/bbmat.mtx
+38744-38744-1771722
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.187392ms	Nscore v1 Gflops:4840.770585
+timecost_cuda:0.696480ms	cuda core验证程序 Gflops:1302.437536
+test matrix = /data/seery/dataset/suitesparse_collection/ted_A/ted_A.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/ted_A/ted_A.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/ted_A/ted_A.mtx
+10605-10605-424587
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.056320ms	Nscore v1 Gflops:3859.881788
+timecost_cuda:0.166272ms	cuda core验证程序 Gflops:1307.427256
+test matrix = /data/seery/dataset/suitesparse_collection/laminar_duct3D/laminar_duct3D.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/laminar_duct3D/laminar_duct3D.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/laminar_duct3D/laminar_duct3D.mtx
+67173-67173-3833077
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.404480ms	Nscore v1 Gflops:4851.996079
+timecost_cuda:1.424704ms	cuda core验证程序 Gflops:1377.504018
+test matrix = /data/seery/dataset/suitesparse_collection/GaAsH6/GaAsH6.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/GaAsH6/GaAsH6.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/GaAsH6/GaAsH6.mtx
+61349-61349-3381809
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.690176ms	Nscore v1 Gflops:2508.760349
+timecost_cuda:1.740896ms	cuda core验证程序 Gflops:994.594865
+test matrix = /data/seery/dataset/suitesparse_collection/ns3Da/ns3Da.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/ns3Da/ns3Da.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/ns3Da/ns3Da.mtx
+20414-20414-1679599
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.687104ms	Nscore v1 Gflops:1251.564108
+timecost_cuda:0.607552ms	cuda core验证程序 Gflops:1415.442134
+test matrix = /data/seery/dataset/suitesparse_collection/TEM27623/TEM27623.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/TEM27623/TEM27623.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/TEM27623/TEM27623.mtx
+27623-27623-439469
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.114688ms	Nscore v1 Gflops:1961.915152
+timecost_cuda:0.208704ms	cuda core验证程序 Gflops:1078.120849
+test matrix = /data/seery/dataset/suitesparse_collection/bcsstk37/bcsstk37.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/bcsstk37/bcsstk37.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/bcsstk37/bcsstk37.mtx
+25503-25503-1140977
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.113664ms	Nscore v1 Gflops:5139.535981
+timecost_cuda:0.422464ms	cuda core验证程序 Gflops:1382.792867
+test matrix = /data/seery/dataset/suitesparse_collection/smt/smt.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/smt/smt.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/smt/smt.mtx
+25710-25710-3753184
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.361472ms	Nscore v1 Gflops:5316.124490
+timecost_cuda:1.309920ms	cuda core验证程序 Gflops:1466.982928
+test matrix = /data/seery/dataset/suitesparse_collection/crack/crack.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/crack/crack.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/crack/crack.mtx
+10240-10240-60760
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.036864ms	Nscore v1 Gflops:843.888859
+timecost_cuda:0.062016ms	cuda core验证程序 Gflops:501.630554
+test matrix = /data/seery/dataset/suitesparse_collection/af23560/af23560.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/af23560/af23560.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/af23560/af23560.mtx
+23560-23560-484256
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.082944ms	Nscore v1 Gflops:2989.234630
+timecost_cuda:0.213088ms	cuda core验证程序 Gflops:1163.552454
+test matrix = /data/seery/dataset/suitesparse_collection/x104/x104.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/x104/x104.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/x104/x104.mtx
+108384-108384-10167624
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.771072ms	Nscore v1 Gflops:6751.410617
+timecost_cuda:3.530208ms	cuda core验证程序 Gflops:1474.650594
+test matrix = /data/seery/dataset/suitesparse_collection/pkustk06/pkustk06.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/pkustk06/pkustk06.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/pkustk06/pkustk06.mtx
+43164-43164-2571768
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.256000ms	Nscore v1 Gflops:5143.535756
+timecost_cuda:0.952416ms	cuda core验证程序 Gflops:1382.531596
+test matrix = /data/seery/dataset/suitesparse_collection/shuttle_eddy_id_881/shuttle_eddy_id_881.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/shuttle_eddy_id_881/shuttle_eddy_id_881.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/shuttle_eddy_id_881/shuttle_eddy_id_881.mtx
+10429-10429-103599
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.035840ms	Nscore v1 Gflops:1479.985675
+timecost_cuda:0.071680ms	cuda core验证程序 Gflops:739.992837
+test matrix = /data/seery/dataset/suitesparse_collection/EAT_SR/EAT_SR.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/EAT_SR/EAT_SR.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/EAT_SR/EAT_SR.mtx
+23219-23219-325589
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.146432ms	Nscore v1 Gflops:1138.423097
+timecost_cuda:0.181952ms	cuda core验证程序 Gflops:916.184314
+test matrix = /data/seery/dataset/suitesparse_collection/3dtube/3dtube.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/3dtube/3dtube.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/3dtube/3dtube.mtx
+45330-45330-3213618
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.542720ms	Nscore v1 Gflops:3031.714984
+timecost_cuda:1.211008ms	cuda core验证程序 Gflops:1358.680108
+test matrix = /data/seery/dataset/suitesparse_collection/mixtank_new/mixtank_new.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/mixtank_new/mixtank_new.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/mixtank_new/mixtank_new.mtx
+29957-29957-1995041
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.382976ms	Nscore v1 Gflops:2667.167143
+timecost_cuda:0.743680ms	cuda core验证程序 Gflops:1373.522203
+test matrix = /data/seery/dataset/suitesparse_collection/fe_4elt2/fe_4elt2.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/fe_4elt2/fe_4elt2.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/fe_4elt2/fe_4elt2.mtx
+11143-11143-65636
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.034816ms	Nscore v1 Gflops:965.235277
+timecost_cuda:0.059264ms	cuda core验证程序 Gflops:567.049671
+test matrix = /data/seery/dataset/suitesparse_collection/sme3Da/sme3Da.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/sme3Da/sme3Da.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/sme3Da/sme3Da.mtx
+12504-12504-874887
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.404480ms	Nscore v1 Gflops:1107.451871
+timecost_cuda:0.310016ms	cuda core验证程序 Gflops:1444.900054
+test matrix = /data/seery/dataset/suitesparse_collection/ted_B/ted_B.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/ted_B/ted_B.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/ted_B/ted_B.mtx
+10605-10605-144579
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.038912ms	Nscore v1 Gflops:1902.355348
+timecost_cuda:0.082496ms	cuda core验证程序 Gflops:897.309517
+test matrix = /data/seery/dataset/suitesparse_collection/lowThrust_13/lowThrust_13.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/lowThrust_13/lowThrust_13.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/lowThrust_13/lowThrust_13.mtx
+18476-18476-224897
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.566272ms	Nscore v1 Gflops:203.342669
+timecost_cuda:0.818432ms	cuda core验证程序 Gflops:140.692529
+test matrix = /data/seery/dataset/suitesparse_collection/std1_Jac3_db/std1_Jac3_db.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/std1_Jac3_db/std1_Jac3_db.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/std1_Jac3_db/std1_Jac3_db.mtx
+21982-21982-531826
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.130048ms	Nscore v1 Gflops:2093.803041
+timecost_cuda:0.268928ms	cuda core验证程序 Gflops:1012.519785
+test matrix = /data/seery/dataset/suitesparse_collection/crystm02/crystm02.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/crystm02/crystm02.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/crystm02/crystm02.mtx
+13965-13965-322905
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.063488ms	Nscore v1 Gflops:2604.072616
+timecost_cuda:0.102464ms	cuda core验证程序 Gflops:1613.516585
+test matrix = /data/seery/dataset/suitesparse_collection/c-42/c-42.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/c-42/c-42.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/c-42/c-42.mtx
+10471-10471-110285
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.177152ms	Nscore v1 Gflops:318.742787
+timecost_cuda:0.266560ms	cuda core验证程序 Gflops:211.831942
+test matrix = /data/seery/dataset/suitesparse_collection/TSOPF_FS_b300_c1/TSOPF_FS_b300_c1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/TSOPF_FS_b300_c1/TSOPF_FS_b300_c1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/TSOPF_FS_b300_c1/TSOPF_FS_b300_c1.mtx
+29214-29214-4400122
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:2.076672ms	Nscore v1 Gflops:1084.842662
+timecost_cuda:4.107840ms	cuda core验证程序 Gflops:548.429937
+test matrix = /data/seery/dataset/suitesparse_collection/foldoc/foldoc.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/foldoc/foldoc.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/foldoc/foldoc.mtx
+13356-13356-120238
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.050176ms	Nscore v1 Gflops:1226.918407
+timecost_cuda:0.078592ms	cuda core验证程序 Gflops:783.309422
+test matrix = /data/seery/dataset/suitesparse_collection/coupled/coupled.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/coupled/coupled.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/coupled/coupled.mtx
+11341-11341-98523
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.288768ms	Nscore v1 Gflops:174.686174
+timecost_cuda:0.409440ms	cuda core验证程序 Gflops:123.201872
+test matrix = /data/seery/dataset/suitesparse_collection/g7jac060sc/g7jac060sc.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/g7jac060sc/g7jac060sc.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/g7jac060sc/g7jac060sc.mtx
+17730-17730-203316
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.086016ms	Nscore v1 Gflops:1210.214295
+timecost_cuda:0.129888ms	cuda core验证程序 Gflops:801.442732
+test matrix = /data/seery/dataset/suitesparse_collection/TSOPF_RS_b2052_c1/TSOPF_RS_b2052_c1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/TSOPF_RS_b2052_c1/TSOPF_RS_b2052_c1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/TSOPF_RS_b2052_c1/TSOPF_RS_b2052_c1.mtx
+25626-25626-6761100
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.380928ms	Nscore v1 Gflops:9087.499767
+timecost_cuda:2.284768ms	cuda core验证程序 Gflops:1515.113588
+test matrix = /data/seery/dataset/suitesparse_collection/msc10848/msc10848.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/msc10848/msc10848.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/msc10848/msc10848.mtx
+10848-10848-1229778
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.146432ms	Nscore v1 Gflops:4299.923153
+timecost_cuda:0.422176ms	cuda core验证程序 Gflops:1491.430898
+test matrix = /data/seery/dataset/suitesparse_collection/g7jac050sc/g7jac050sc.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/g7jac050sc/g7jac050sc.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/g7jac050sc/g7jac050sc.mtx
+14760-14760-157990
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.070656ms	Nscore v1 Gflops:1144.855047
+timecost_cuda:0.104000ms	cuda core验证程序 Gflops:777.796907
+test matrix = /data/seery/dataset/suitesparse_collection/human_gene1/human_gene1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/human_gene1/human_gene1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/human_gene1/human_gene1.mtx
+22283-22283-24669643
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:4.984832ms	Nscore v1 Gflops:2533.858252
+timecost_cuda:10.446272ms	cuda core验证程序 Gflops:1209.125834
+test matrix = /data/seery/dataset/suitesparse_collection/tube1/tube1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/tube1/tube1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/tube1/tube1.mtx
+21498-21498-897056
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.091136ms	Nscore v1 Gflops:5039.640391
+timecost_cuda:0.330464ms	cuda core验证程序 Gflops:1389.841751
+test matrix = /data/seery/dataset/suitesparse_collection/human_gene2/human_gene2.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/human_gene2/human_gene2.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/human_gene2/human_gene2.mtx
+14340-14340-18068388
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:2.723840ms	Nscore v1 Gflops:3396.313536
+timecost_cuda:6.166400ms	cuda core验证程序 Gflops:1500.229424
+test matrix = /data/seery/dataset/suitesparse_collection/li/li.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/li/li.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/li/li.mtx
+22695-22695-1350309
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.142336ms	Nscore v1 Gflops:4857.226754
+timecost_cuda:0.368928ms	cuda core验证程序 Gflops:1873.965205
+test matrix = /data/seery/dataset/suitesparse_collection/raefsky3/raefsky3.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/raefsky3/raefsky3.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/raefsky3/raefsky3.mtx
+21200-21200-1488768
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.063488ms	Nscore v1 Gflops:12006.193711
+timecost_cuda:0.408352ms	cuda core验证程序 Gflops:1866.647498
+test matrix = /data/seery/dataset/suitesparse_collection/pkustk09/pkustk09.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/pkustk09/pkustk09.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/pkustk09/pkustk09.mtx
+33960-33960-1583640
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.125952ms	Nscore v1 Gflops:6437.560700
+timecost_cuda:0.436320ms	cuda core验证程序 Gflops:1858.323403
+test matrix = /data/seery/dataset/suitesparse_collection/nd6k/nd6k.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/nd6k/nd6k.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/nd6k/nd6k.mtx
+18000-18000-6897316
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.484352ms	Nscore v1 Gflops:7291.031824
+timecost_cuda:2.241216ms	cuda core验证程序 Gflops:1575.674045
+test matrix = /data/seery/dataset/suitesparse_collection/s3dkq4m2/s3dkq4m2.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/s3dkq4m2/s3dkq4m2.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/s3dkq4m2/s3dkq4m2.mtx
+90449-90449-4820891
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.354304ms	Nscore v1 Gflops:6966.605770
+timecost_cuda:1.749504ms	cuda core验证程序 Gflops:1410.854868
+test matrix = /data/seery/dataset/suitesparse_collection/lhr14/lhr14.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/lhr14/lhr14.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/lhr14/lhr14.mtx
+14270-14270-307858
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.057344ms	Nscore v1 Gflops:2748.732105
+timecost_cuda:0.139136ms	cuda core验证程序 Gflops:1132.872113
+test matrix = /data/seery/dataset/suitesparse_collection/viscorocks/viscorocks.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/viscorocks/viscorocks.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/viscorocks/viscorocks.mtx
+37762-37762-1162244
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.135168ms	Nscore v1 Gflops:4402.439360
+timecost_cuda:0.444992ms	cuda core验证程序 Gflops:1337.257569
+test matrix = /data/seery/dataset/suitesparse_collection/t2dah_a/t2dah_a.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/t2dah_a/t2dah_a.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/t2dah_a/t2dah_a.mtx
+11445-11445-176117
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.041984ms	Nscore v1 Gflops:2147.768328
+timecost_cuda:0.088832ms	cuda core验证程序 Gflops:1015.083592
+test matrix = /data/seery/dataset/suitesparse_collection/bcsstk32/bcsstk32.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/bcsstk32/bcsstk32.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/bcsstk32/bcsstk32.mtx
+44609-44609-2014701
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.205824ms	Nscore v1 Gflops:5011.693966
+timecost_cuda:0.747040ms	cuda core验证程序 Gflops:1380.818896
+test matrix = /data/seery/dataset/suitesparse_collection/g7jac060/g7jac060.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/g7jac060/g7jac060.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/g7jac060/g7jac060.mtx
+17730-17730-203316
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.082944ms	Nscore v1 Gflops:1255.037063
+timecost_cuda:0.123392ms	cuda core验证程序 Gflops:843.634849
+test matrix = /data/seery/dataset/suitesparse_collection/TSOPF_RS_b300_c1/TSOPF_RS_b300_c1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/TSOPF_RS_b300_c1/TSOPF_RS_b300_c1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/TSOPF_RS_b300_c1/TSOPF_RS_b300_c1.mtx
+14538-14538-1474325
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.106496ms	Nscore v1 Gflops:7088.101041
+timecost_cuda:0.528992ms	cuda core验证程序 Gflops:1426.967523
+test matrix = /data/seery/dataset/suitesparse_collection/trdheim/trdheim.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/trdheim/trdheim.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/trdheim/trdheim.mtx
+22098-22098-1935324
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.135168ms	Nscore v1 Gflops:7330.772670
+timecost_cuda:0.653248ms	cuda core验证程序 Gflops:1516.860166
+test matrix = /data/seery/dataset/suitesparse_collection/rim/rim.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/rim/rim.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/rim/rim.mtx
+22560-22560-1014951
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.126976ms	Nscore v1 Gflops:4092.544410
+timecost_cuda:0.371968ms	cuda core验证程序 Gflops:1397.041978
+test matrix = /data/seery/dataset/suitesparse_collection/stokes64/stokes64.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/stokes64/stokes64.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/stokes64/stokes64.mtx
+12546-12546-140034
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.043008ms	Nscore v1 Gflops:1667.071442
+timecost_cuda:0.085536ms	cuda core验证程序 Gflops:838.213213
+test matrix = /data/seery/dataset/suitesparse_collection/sit100/sit100.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/sit100/sit100.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/sit100/sit100.mtx
+10262-10262-61046
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.034816ms	Nscore v1 Gflops:897.735278
+timecost_cuda:0.057184ms	cuda core验证程序 Gflops:546.578628
+test matrix = /data/seery/dataset/suitesparse_collection/big/big.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/big/big.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/big/big.mtx
+13209-13209-91465
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.043008ms	Nscore v1 Gflops:1088.869056
+timecost_cuda:0.071264ms	cuda core验证程序 Gflops:657.135171
+test matrix = /data/seery/dataset/suitesparse_collection/har_10NN/har_10NN.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/har_10NN/har_10NN.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/har_10NN/har_10NN.mtx
+10299-10299-151736
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.065536ms	Nscore v1 Gflops:1185.437503
+timecost_cuda:0.082816ms	cuda core验证程序 Gflops:938.089675
+test matrix = /data/seery/dataset/suitesparse_collection/Ga3As3H12/Ga3As3H12.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Ga3As3H12/Ga3As3H12.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Ga3As3H12/Ga3As3H12.mtx
+61349-61349-5970947
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.921600ms	Nscore v1 Gflops:3317.192835
+timecost_cuda:2.707424ms	cuda core验证程序 Gflops:1129.163717
+test matrix = /data/seery/dataset/suitesparse_collection/linverse/linverse.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/linverse/linverse.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/linverse/linverse.mtx
+11999-11999-95977
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.029696ms	Nscore v1 Gflops:1654.775821
+timecost_cuda:0.065088ms	cuda core验证程序 Gflops:754.981359
+test matrix = /data/seery/dataset/suitesparse_collection/torso1/torso1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/torso1/torso1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/torso1/torso1.mtx
+116158-116158-8516500
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:1.062912ms	Nscore v1 Gflops:4102.360357
+timecost_cuda:7.552160ms	cuda core验证程序 Gflops:577.377614
+test matrix = /data/seery/dataset/suitesparse_collection/SiO/SiO.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/SiO/SiO.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/SiO/SiO.mtx
+33401-33401-1317655
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.336896ms	Nscore v1 Gflops:2002.515184
+timecost_cuda:0.601632ms	cuda core验证程序 Gflops:1121.348866
+test matrix = /data/seery/dataset/suitesparse_collection/poisson3Da/poisson3Da.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/poisson3Da/poisson3Da.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/poisson3Da/poisson3Da.mtx
+13514-13514-352762
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.135168ms	Nscore v1 Gflops:1336.219687
+timecost_cuda:0.145344ms	cuda core验证程序 Gflops:1242.666632
+test matrix = /data/seery/dataset/suitesparse_collection/t3dh_a/t3dh_a.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/t3dh_a/t3dh_a.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/t3dh_a/t3dh_a.mtx
+79171-79171-4352105
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.684032ms	Nscore v1 Gflops:3257.563513
+timecost_cuda:1.575296ms	cuda core验证程序 Gflops:1414.513652
+test matrix = /data/seery/dataset/suitesparse_collection/bcsstk30/bcsstk30.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/bcsstk30/bcsstk30.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/bcsstk30/bcsstk30.mtx
+28924-28924-2043492
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.192512ms	Nscore v1 Gflops:5434.818992
+timecost_cuda:0.716384ms	cuda core验证程序 Gflops:1460.484759
+test matrix = /data/seery/dataset/suitesparse_collection/ted_A_unscaled/ted_A_unscaled.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/ted_A_unscaled/ted_A_unscaled.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/ted_A_unscaled/ted_A_unscaled.mtx
+10605-10605-424587
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.056320ms	Nscore v1 Gflops:3859.881788
+timecost_cuda:0.164576ms	cuda core验证程序 Gflops:1320.900690
+test matrix = /data/seery/dataset/suitesparse_collection/Dubcova1/Dubcova1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Dubcova1/Dubcova1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Dubcova1/Dubcova1.mtx
+16129-16129-253009
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.074752ms	Nscore v1 Gflops:1732.938288
+timecost_cuda:0.123552ms	cuda core验证程序 Gflops:1048.470327
+test matrix = /data/seery/dataset/suitesparse_collection/F2/F2.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/F2/F2.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/F2/F2.mtx
+71505-71505-5294285
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.632832ms	Nscore v1 Gflops:4283.402166
+timecost_cuda:1.948480ms	cuda core验证程序 Gflops:1391.173585
+test matrix = /data/seery/dataset/suitesparse_collection/mycielskian16/mycielskian16.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/mycielskian16/mycielskian16.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/mycielskian16/mycielskian16.mtx
+49151-49151-33382480
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:8.998912ms	Nscore v1 Gflops:1899.321833
+timecost_cuda:24.880960ms	cuda core验证程序 Gflops:686.944131
+test matrix = /data/seery/dataset/suitesparse_collection/e40r0100/e40r0100.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/e40r0100/e40r0100.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/e40r0100/e40r0100.mtx
+17281-17281-553562
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.102400ms	Nscore v1 Gflops:2767.810070
+timecost_cuda:0.234816ms	cuda core验证程序 Gflops:1207.003544
+test matrix = /data/seery/dataset/suitesparse_collection/xenon1/xenon1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/xenon1/xenon1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/xenon1/xenon1.mtx
+48600-48600-1181120
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.216064ms	Nscore v1 Gflops:2798.862480
+timecost_cuda:0.487008ms	cuda core验证程序 Gflops:1241.732032
+test matrix = /data/seery/dataset/suitesparse_collection/EAT_RS/EAT_RS.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/EAT_RS/EAT_RS.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/EAT_RS/EAT_RS.mtx
+23219-23219-325592
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.186368ms	Nscore v1 Gflops:894.483500
+timecost_cuda:0.256352ms	cuda core验证程序 Gflops:650.289833
+test matrix = /data/seery/dataset/suitesparse_collection/ncvxqp1/ncvxqp1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/ncvxqp1/ncvxqp1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/ncvxqp1/ncvxqp1.mtx
+12111-12111-73963
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.044032ms	Nscore v1 Gflops:860.034884
+timecost_cuda:0.062464ms	cuda core验证程序 Gflops:606.254110
+test matrix = /data/seery/dataset/suitesparse_collection/bcsstk35/bcsstk35.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/bcsstk35/bcsstk35.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/bcsstk35/bcsstk35.mtx
+30237-30237-1450163
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.147456ms	Nscore v1 Gflops:5035.288016
+timecost_cuda:0.532672ms	cuda core验证程序 Gflops:1393.884929
+test matrix = /data/seery/dataset/suitesparse_collection/msc23052/msc23052.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/msc23052/msc23052.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/msc23052/msc23052.mtx
+23052-23052-1154814
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.143360ms	Nscore v1 Gflops:4124.335604
+timecost_cuda:0.416800ms	cuda core验证程序 Gflops:1418.581523
+test matrix = /data/seery/dataset/suitesparse_collection/ship_001/ship_001.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/ship_001/ship_001.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/ship_001/ship_001.mtx
+34920-34920-4644230
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.375808ms	Nscore v1 Gflops:6327.288819
+timecost_cuda:1.638784ms	cuda core验证程序 Gflops:1450.981756
+test matrix = /data/seery/dataset/suitesparse_collection/pkustk05/pkustk05.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/pkustk05/pkustk05.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/pkustk05/pkustk05.mtx
+37164-37164-2205144
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.223232ms	Nscore v1 Gflops:5057.669701
+timecost_cuda:0.860320ms	cuda core验证程序 Gflops:1312.341646
+test matrix = /data/seery/dataset/suitesparse_collection/crplat2/crplat2.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/crplat2/crplat2.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/crplat2/crplat2.mtx
+18010-18010-960946
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.077824ms	Nscore v1 Gflops:6322.013439
+timecost_cuda:0.342784ms	cuda core验证程序 Gflops:1435.318947
+test matrix = /data/seery/dataset/suitesparse_collection/conf6_0-8x8-80/conf6_0-8x8-80.mtx
+Sorry, this application does not support Market Market type: [matrix coordinate complex general]
+Only sparse real-valued or pattern coordinate matrices are supported
+test matrix = /data/seery/dataset/suitesparse_collection/cant/cant.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/cant/cant.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/cant/cant.mtx
+62451-62451-4007383
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.391168ms	Nscore v1 Gflops:5245.265729
+timecost_cuda:1.431552ms	cuda core验证程序 Gflops:1433.255670
+test matrix = /data/seery/dataset/suitesparse_collection/kim1/kim1.mtx
+Sorry, this application does not support Market Market type: [matrix coordinate complex general]
+Only sparse real-valued or pattern coordinate matrices are supported
+test matrix = /data/seery/dataset/suitesparse_collection/consph/consph.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/consph/consph.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/consph/consph.mtx
+83334-83334-6010480
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.553984ms	Nscore v1 Gflops:5554.972410
+timecost_cuda:2.099008ms	cuda core验证程序 Gflops:1466.104768
+test matrix = /data/seery/dataset/suitesparse_collection/k3plates/k3plates.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/k3plates/k3plates.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/k3plates/k3plates.mtx
+11107-11107-378927
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.054272ms	Nscore v1 Gflops:3574.783036
+timecost_cuda:0.157056ms	cuda core验证程序 Gflops:1235.295814
+test matrix = /data/seery/dataset/suitesparse_collection/worms20_10NN/worms20_10NN.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/worms20_10NN/worms20_10NN.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/worms20_10NN/worms20_10NN.mtx
+20055-20055-240826
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.098304ms	Nscore v1 Gflops:1254.302039
+timecost_cuda:0.128448ms	cuda core验证程序 Gflops:959.944236
+test matrix = /data/seery/dataset/suitesparse_collection/ted_AB/ted_AB.mtx
+Sorry, this application does not support Market Market type: [matrix coordinate complex general]
+Only sparse real-valued or pattern coordinate matrices are supported
+test matrix = /data/seery/dataset/suitesparse_collection/Goodwin_030/Goodwin_030.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Goodwin_030/Goodwin_030.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Goodwin_030/Goodwin_030.mtx
+10142-10142-312814
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.052224ms	Nscore v1 Gflops:3066.803977
+timecost_cuda:0.137728ms	cuda core验证程序 Gflops:1162.877276
+test matrix = /data/seery/dataset/suitesparse_collection/bcsstk29/bcsstk29.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/bcsstk29/bcsstk29.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/bcsstk29/bcsstk29.mtx
+13992-13992-619488
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.070656ms	Nscore v1 Gflops:4489.043379
+timecost_cuda:0.233888ms	cuda core验证程序 Gflops:1356.110000
+test matrix = /data/seery/dataset/suitesparse_collection/c-45/c-45.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/c-45/c-45.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/c-45/c-45.mtx
+13206-13206-174452
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.246784ms	Nscore v1 Gflops:361.933608
+timecost_cuda:0.434400ms	cuda core验证程序 Gflops:205.615621
+test matrix = /data/seery/dataset/suitesparse_collection/Si10H16/Si10H16.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Si10H16/Si10H16.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Si10H16/Si10H16.mtx
+17077-17077-875923
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.202752ms	Nscore v1 Gflops:2211.926832
+timecost_cuda:0.372640ms	cuda core验证程序 Gflops:1203.500857
+test matrix = /data/seery/dataset/suitesparse_collection/vibrobox/vibrobox.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/vibrobox/vibrobox.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/vibrobox/vibrobox.mtx
+12328-12328-342828
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.110592ms	Nscore v1 Gflops:1587.166664
+timecost_cuda:0.143072ms	cuda core验证程序 Gflops:1226.850419
+test matrix = /data/seery/dataset/suitesparse_collection/mycielskian14/mycielskian14.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/mycielskian14/mycielskian14.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/mycielskian14/mycielskian14.mtx
+12287-12287-3695512
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:1.797120ms	Nscore v1 Gflops:1052.852436
+timecost_cuda:2.186432ms	cuda core验证程序 Gflops:865.383531
+test matrix = /data/seery/dataset/suitesparse_collection/astro-ph/astro-ph.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/astro-ph/astro-ph.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/astro-ph/astro-ph.mtx
+16706-16706-242502
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.099328ms	Nscore v1 Gflops:1250.010355
+timecost_cuda:0.127008ms	cuda core验证程序 Gflops:977.584232
+test matrix = /data/seery/dataset/suitesparse_collection/TSOPF_FS_b300_c2/TSOPF_FS_b300_c2.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/TSOPF_FS_b300_c2/TSOPF_FS_b300_c2.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/TSOPF_FS_b300_c2/TSOPF_FS_b300_c2.mtx
+56814-56814-8767466
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:4.082688ms	Nscore v1 Gflops:1099.506686
+timecost_cuda:8.275072ms	cuda core验证程序 Gflops:542.465678
+test matrix = /data/seery/dataset/suitesparse_collection/Goodwin_054/Goodwin_054.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Goodwin_054/Goodwin_054.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Goodwin_054/Goodwin_054.mtx
+32510-32510-1030878
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.139264ms	Nscore v1 Gflops:3789.992581
+timecost_cuda:0.408064ms	cuda core验证程序 Gflops:1293.447905
+test matrix = /data/seery/dataset/suitesparse_collection/t3dh_e/t3dh_e.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/t3dh_e/t3dh_e.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/t3dh_e/t3dh_e.mtx
+79171-79171-4352105
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.680960ms	Nscore v1 Gflops:3272.259401
+timecost_cuda:1.574272ms	cuda core验证程序 Gflops:1415.433742
+test matrix = /data/seery/dataset/suitesparse_collection/srb1/srb1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/srb1/srb1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/srb1/srb1.mtx
+54924-54924-2962152
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.272384ms	Nscore v1 Gflops:5567.955134
+timecost_cuda:1.070944ms	cuda core验证程序 Gflops:1416.154246
+test matrix = /data/seery/dataset/suitesparse_collection/t2dah_e/t2dah_e.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/t2dah_e/t2dah_e.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/t2dah_e/t2dah_e.mtx
+11445-11445-176117
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.040960ms	Nscore v1 Gflops:2201.462556
+timecost_cuda:0.088000ms	cuda core验证程序 Gflops:1024.680733
+test matrix = /data/seery/dataset/suitesparse_collection/bcsstm36/bcsstm36.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/bcsstm36/bcsstm36.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/bcsstm36/bcsstm36.mtx
+23052-23052-320606
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.068608ms	Nscore v1 Gflops:2392.582059
+timecost_cuda:0.154528ms	cuda core验证程序 Gflops:1062.268745
+test matrix = /data/seery/dataset/suitesparse_collection/bcsstk17/bcsstk17.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/bcsstk17/bcsstk17.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/bcsstk17/bcsstk17.mtx
+10974-10974-428650
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.055296ms	Nscore v1 Gflops:3968.981475
+timecost_cuda:0.175840ms	cuda core验证程序 Gflops:1248.116432
+test matrix = /data/seery/dataset/suitesparse_collection/waveguide3D/waveguide3D.mtx
+Sorry, this application does not support Market Market type: [matrix coordinate complex general]
+Only sparse real-valued or pattern coordinate matrices are supported
+test matrix = /data/seery/dataset/suitesparse_collection/TSOPF_FS_b162_c1/TSOPF_FS_b162_c1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/TSOPF_FS_b162_c1/TSOPF_FS_b162_c1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/TSOPF_FS_b162_c1/TSOPF_FS_b162_c1.mtx
+10798-10798-608540
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.449536ms	Nscore v1 Gflops:693.097956
+timecost_cuda:1.324864ms	cuda core验证程序 Gflops:235.173175
+test matrix = /data/seery/dataset/suitesparse_collection/t3dh/t3dh.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/t3dh/t3dh.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/t3dh/t3dh.mtx
+79171-79171-4352105
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.684032ms	Nscore v1 Gflops:3257.563513
+timecost_cuda:1.574592ms	cuda core验证程序 Gflops:1415.146126
+test matrix = /data/seery/dataset/suitesparse_collection/opt1/opt1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/opt1/opt1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/opt1/opt1.mtx
+15449-15449-1930655
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.166912ms	Nscore v1 Gflops:5922.254447
+timecost_cuda:0.637728ms	cuda core验证程序 Gflops:1550.026653
+test matrix = /data/seery/dataset/suitesparse_collection/inlet/inlet.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/inlet/inlet.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/inlet/inlet.mtx
+11730-11730-328323
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.051200ms	Nscore v1 Gflops:3283.230083
+timecost_cuda:0.134368ms	cuda core验证程序 Gflops:1251.052133
+test matrix = /data/seery/dataset/suitesparse_collection/invextr1_new/invextr1_new.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/invextr1_new/invextr1_new.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/invextr1_new/invextr1_new.mtx
+30412-30412-1793881
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.340992ms	Nscore v1 Gflops:2693.514986
+timecost_cuda:0.677088ms	cuda core验证程序 Gflops:1356.495820
+test matrix = /data/seery/dataset/suitesparse_collection/Pres_Poisson/Pres_Poisson.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Pres_Poisson/Pres_Poisson.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Pres_Poisson/Pres_Poisson.mtx
+14822-14822-715804
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.087040ms	Nscore v1 Gflops:4210.611781
+timecost_cuda:0.258208ms	cuda core验证程序 Gflops:1419.365932
+test matrix = /data/seery/dataset/suitesparse_collection/pkustk14/pkustk14.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/pkustk14/pkustk14.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/pkustk14/pkustk14.mtx
+151926-151926-14836504
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:1.463296ms	Nscore v1 Gflops:5191.218836
+timecost_cuda:5.341280ms	cuda core验证程序 Gflops:1422.185332
+test matrix = /data/seery/dataset/suitesparse_collection/hangGlider_3/hangGlider_3.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/hangGlider_3/hangGlider_3.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/hangGlider_3/hangGlider_3.mtx
+10260-10260-92703
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.749568ms	Nscore v1 Gflops:63.321723
+timecost_cuda:1.013088ms	cuda core验证程序 Gflops:46.850754
+test matrix = /data/seery/dataset/suitesparse_collection/rma10/rma10.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/rma10/rma10.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/rma10/rma10.mtx
+46835-46835-2374001
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.235520ms	Nscore v1 Gflops:5160.871625
+timecost_cuda:0.869376ms	cuda core验证程序 Gflops:1398.116013
+test matrix = /data/seery/dataset/suitesparse_collection/Si5H12/Si5H12.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Si5H12/Si5H12.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Si5H12/Si5H12.mtx
+19896-19896-738598
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.190464ms	Nscore v1 Gflops:1985.478444
+timecost_cuda:0.321600ms	cuda core验证程序 Gflops:1175.877449
+test matrix = /data/seery/dataset/suitesparse_collection/TSOPF_FS_b39_c7/TSOPF_FS_b39_c7.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/TSOPF_FS_b39_c7/TSOPF_FS_b39_c7.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/TSOPF_FS_b39_c7/TSOPF_FS_b39_c7.mtx
+28216-28216-730080
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:1.908736ms	Nscore v1 Gflops:195.836911
+timecost_cuda:3.091296ms	cuda core验证程序 Gflops:120.920470
+test matrix = /data/seery/dataset/suitesparse_collection/lhr34c/lhr34c.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/lhr34c/lhr34c.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/lhr34c/lhr34c.mtx
+35152-35152-764014
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.128000ms	Nscore v1 Gflops:3056.055855
+timecost_cuda:0.369728ms	cuda core验证程序 Gflops:1058.007966
+test matrix = /data/seery/dataset/suitesparse_collection/Zd_Jac2_db/Zd_Jac2_db.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Zd_Jac2_db/Zd_Jac2_db.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Zd_Jac2_db/Zd_Jac2_db.mtx
+22835-22835-676439
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.148480ms	Nscore v1 Gflops:2332.548306
+timecost_cuda:0.333312ms	cuda core验证程序 Gflops:1039.076790
+test matrix = /data/seery/dataset/suitesparse_collection/vanbody/vanbody.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/vanbody/vanbody.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/vanbody/vanbody.mtx
+47072-47072-2336898
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.240640ms	Nscore v1 Gflops:4972.123414
+timecost_cuda:0.853760ms	cuda core验证程序 Gflops:1401.438074
+test matrix = /data/seery/dataset/suitesparse_collection/pdb1HYS/pdb1HYS.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/pdb1HYS/pdb1HYS.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/pdb1HYS/pdb1HYS.mtx
+36417-36417-4344765
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.323584ms	Nscore v1 Gflops:6874.628370
+timecost_cuda:1.473376ms	cuda core验证程序 Gflops:1509.811227
+test matrix = /data/seery/dataset/suitesparse_collection/TSOPF_FS_b162_c3/TSOPF_FS_b162_c3.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/TSOPF_FS_b162_c3/TSOPF_FS_b162_c3.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/TSOPF_FS_b162_c3/TSOPF_FS_b162_c3.mtx
+30798-30798-1801300
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:1.881088ms	Nscore v1 Gflops:490.283065
+timecost_cuda:4.274176ms	cuda core验证程序 Gflops:215.776228
+test matrix = /data/seery/dataset/suitesparse_collection/TSOPF_RS_b678_c2/TSOPF_RS_b678_c2.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/TSOPF_RS_b678_c2/TSOPF_RS_b678_c2.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/TSOPF_RS_b678_c2/TSOPF_RS_b678_c2.mtx
+35696-35696-8781949
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.483328ms	Nscore v1 Gflops:9302.911795
+timecost_cuda:2.944576ms	cuda core验证程序 Gflops:1526.996705
+test matrix = /data/seery/dataset/suitesparse_collection/vsp_c-30_data_data/vsp_c-30_data_data.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/vsp_c-30_data_data/vsp_c-30_data_data.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/vsp_c-30_data_data/vsp_c-30_data_data.mtx
+11023-11023-124368
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.222208ms	Nscore v1 Gflops:286.562221
+timecost_cuda:0.356096ms	cuda core验证程序 Gflops:178.818117
+test matrix = /data/seery/dataset/suitesparse_collection/pkustk10/pkustk10.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/pkustk10/pkustk10.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/pkustk10/pkustk10.mtx
+80676-80676-4308984
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.398336ms	Nscore v1 Gflops:5538.539939
+timecost_cuda:1.570944ms	cuda core验证程序 Gflops:1404.378435
+test matrix = /data/seery/dataset/suitesparse_collection/2D_27628_bjtcai/2D_27628_bjtcai.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/2D_27628_bjtcai/2D_27628_bjtcai.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/2D_27628_bjtcai/2D_27628_bjtcai.mtx
+27628-27628-442898
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.086016ms	Nscore v1 Gflops:2636.297640
+timecost_cuda:0.203936ms	cuda core验证程序 Gflops:1111.936003
+test matrix = /data/seery/dataset/suitesparse_collection/hangGlider_4/hangGlider_4.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/hangGlider_4/hangGlider_4.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/hangGlider_4/hangGlider_4.mtx
+15561-15561-149532
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.975872ms	Nscore v1 Gflops:78.453307
+timecost_cuda:1.583744ms	cuda core验证程序 Gflops:48.341387
+test matrix = /data/seery/dataset/suitesparse_collection/net50/net50.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/net50/net50.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/net50/net50.mtx
+16320-16320-945200
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.251904ms	Nscore v1 Gflops:1921.138129
+timecost_cuda:0.349408ms	cuda core验证程序 Gflops:1385.035257
+test matrix = /data/seery/dataset/suitesparse_collection/gupta1/gupta1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/gupta1/gupta1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/gupta1/gupta1.mtx
+31802-31802-2164210
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:1.449984ms	Nscore v1 Gflops:764.198470
+timecost_cuda:2.029120ms	cuda core验证程序 Gflops:546.086746
+test matrix = /data/seery/dataset/suitesparse_collection/vsp_p0291_seymourl_iiasa/vsp_p0291_seymourl_iiasa.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/vsp_p0291_seymourl_iiasa/vsp_p0291_seymourl_iiasa.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/vsp_p0291_seymourl_iiasa/vsp_p0291_seymourl_iiasa.mtx
+10498-10498-107736
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.108544ms	Nscore v1 Gflops:508.188682
+timecost_cuda:0.070720ms	cuda core验证程序 Gflops:779.989118
+test matrix = /data/seery/dataset/suitesparse_collection/wiki-RfA/wiki-RfA.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/wiki-RfA/wiki-RfA.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/wiki-RfA/wiki-RfA.mtx
+11380-11380-188077
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.161792ms	Nscore v1 Gflops:595.180398
+timecost_cuda:0.167168ms	cuda core验证程序 Gflops:576.039795
+test matrix = /data/seery/dataset/suitesparse_collection/thread/thread.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/thread/thread.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/thread/thread.mtx
+29736-29736-4470048
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.393216ms	Nscore v1 Gflops:5820.374794
+timecost_cuda:1.580832ms	cuda core验证程序 Gflops:1447.759515
+test matrix = /data/seery/dataset/suitesparse_collection/Zd_Jac3_db/Zd_Jac3_db.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Zd_Jac3_db/Zd_Jac3_db.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Zd_Jac3_db/Zd_Jac3_db.mtx
+22835-22835-713907
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.145408ms	Nscore v1 Gflops:2513.756964
+timecost_cuda:0.354976ms	cuda core验证程序 Gflops:1029.704503
+test matrix = /data/seery/dataset/suitesparse_collection/vsp_msc10848_300sep_100in_1Kout/vsp_msc10848_300sep_100in_1Kout.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/vsp_msc10848_300sep_100in_1Kout/vsp_msc10848_300sep_100in_1Kout.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/vsp_msc10848_300sep_100in_1Kout/vsp_msc10848_300sep_100in_1Kout.mtx
+21996-21996-2442056
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.935936ms	Nscore v1 Gflops:1335.916886
+timecost_cuda:0.963264ms	cuda core验证程序 Gflops:1298.016626
+test matrix = /data/seery/dataset/suitesparse_collection/Reuters911/Reuters911.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Reuters911/Reuters911.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Reuters911/Reuters911.mtx
+13332-13332-296076
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.294912ms	Nscore v1 Gflops:514.020815
+timecost_cuda:0.316288ms	cuda core验证程序 Gflops:479.281271
+test matrix = /data/seery/dataset/suitesparse_collection/lhr34/lhr34.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/lhr34/lhr34.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/lhr34/lhr34.mtx
+35152-35152-764014
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.128000ms	Nscore v1 Gflops:3056.055855
+timecost_cuda:0.362176ms	cuda core验证程序 Gflops:1080.069267
+test matrix = /data/seery/dataset/suitesparse_collection/gyro/gyro.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/gyro/gyro.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/gyro/gyro.mtx
+17361-17361-1021159
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.131072ms	Nscore v1 Gflops:3988.902354
+timecost_cuda:0.377600ms	cuda core验证程序 Gflops:1384.622321
+test matrix = /data/seery/dataset/suitesparse_collection/lhr11/lhr11.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/lhr11/lhr11.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/lhr11/lhr11.mtx
+10964-10964-233741
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.049152ms	Nscore v1 Gflops:2434.801997
+timecost_cuda:0.124864ms	cuda core验证程序 Gflops:958.445947
+test matrix = /data/seery/dataset/suitesparse_collection/Ge99H100/Ge99H100.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Ge99H100/Ge99H100.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Ge99H100/Ge99H100.mtx
+112985-112985-8451395
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:1.423360ms	Nscore v1 Gflops:3040.070165
+timecost_cuda:3.483360ms	cuda core验证程序 Gflops:1242.224225
+test matrix = /data/seery/dataset/suitesparse_collection/airfoil_2d/airfoil_2d.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/airfoil_2d/airfoil_2d.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/airfoil_2d/airfoil_2d.mtx
+14214-14214-259688
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.098304ms	Nscore v1 Gflops:1352.541619
+timecost_cuda:0.124672ms	cuda core验证程序 Gflops:1066.480466
+test matrix = /data/seery/dataset/suitesparse_collection/Trefethen_20000b/Trefethen_20000b.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Trefethen_20000b/Trefethen_20000b.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Trefethen_20000b/Trefethen_20000b.mtx
+19999-19999-554435
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.165888ms	Nscore v1 Gflops:1711.219171
+timecost_cuda:0.225184ms	cuda core验证程序 Gflops:1260.616776
+test matrix = /data/seery/dataset/suitesparse_collection/crystk02/crystk02.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/crystk02/crystk02.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/crystk02/crystk02.mtx
+13965-13965-968583
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.102400ms	Nscore v1 Gflops:4842.915122
+timecost_cuda:0.337280ms	cuda core验证程序 Gflops:1470.334702
+test matrix = /data/seery/dataset/suitesparse_collection/crankseg_1/crankseg_1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/crankseg_1/crankseg_1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/crankseg_1/crankseg_1.mtx
+52804-52804-10614210
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:1.087488ms	Nscore v1 Gflops:4997.273758
+timecost_cuda:3.650304ms	cuda core验证程序 Gflops:1488.773374
+test matrix = /data/seery/dataset/suitesparse_collection/lowThrust_8/lowThrust_8.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/lowThrust_8/lowThrust_8.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/lowThrust_8/lowThrust_8.mtx
+17702-17702-216445
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.585728ms	Nscore v1 Gflops:189.200178
+timecost_cuda:0.843264ms	cuda core验证程序 Gflops:131.417732
+test matrix = /data/seery/dataset/suitesparse_collection/TSOPF_FS_b300_c3/TSOPF_FS_b300_c3.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/TSOPF_FS_b300_c3/TSOPF_FS_b300_c3.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/TSOPF_FS_b300_c3/TSOPF_FS_b300_c3.mtx
+84414-84414-13135930
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:5.967872ms	Nscore v1 Gflops:1126.967200
+timecost_cuda:12.417984ms	cuda core验证程序 Gflops:541.601290
+test matrix = /data/seery/dataset/suitesparse_collection/lhr11c/lhr11c.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/lhr11c/lhr11c.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/lhr11c/lhr11c.mtx
+10964-10964-233741
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.048128ms	Nscore v1 Gflops:2486.606311
+timecost_cuda:0.127328ms	cuda core验证程序 Gflops:939.898515
+test matrix = /data/seery/dataset/suitesparse_collection/shuttle_eddy_id_763/shuttle_eddy_id_763.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/shuttle_eddy_id_763/shuttle_eddy_id_763.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/shuttle_eddy_id_763/shuttle_eddy_id_763.mtx
+10429-10429-103599
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.036864ms	Nscore v1 Gflops:1438.874949
+timecost_cuda:0.072864ms	cuda core验证程序 Gflops:727.968345
+test matrix = /data/seery/dataset/suitesparse_collection/Trefethen_20000/Trefethen_20000.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Trefethen_20000/Trefethen_20000.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Trefethen_20000/Trefethen_20000.mtx
+20000-20000-554466
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.165888ms	Nscore v1 Gflops:1711.314850
+timecost_cuda:0.221152ms	cuda core验证程序 Gflops:1283.671870
+test matrix = /data/seery/dataset/suitesparse_collection/Zd_Jac2/Zd_Jac2.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Zd_Jac2/Zd_Jac2.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Zd_Jac2/Zd_Jac2.mtx
+22835-22835-1642833
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.300032ms	Nscore v1 Gflops:2803.469378
+timecost_cuda:0.792576ms	cuda core验证程序 Gflops:1061.261608
+test matrix = /data/seery/dataset/suitesparse_collection/lhr17/lhr17.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/lhr17/lhr17.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/lhr17/lhr17.mtx
+17576-17576-381975
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.069632ms	Nscore v1 Gflops:2808.639657
+timecost_cuda:0.170944ms	cuda core验证程序 Gflops:1144.065858
+test matrix = /data/seery/dataset/suitesparse_collection/TSOPF_RS_b300_c3/TSOPF_RS_b300_c3.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/TSOPF_RS_b300_c3/TSOPF_RS_b300_c3.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/TSOPF_RS_b300_c3/TSOPF_RS_b300_c3.mtx
+42138-42138-4413449
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.291840ms	Nscore v1 Gflops:7742.893326
+timecost_cuda:1.510592ms	cuda core验证程序 Gflops:1495.894267
+test matrix = /data/seery/dataset/suitesparse_collection/tube2/tube2.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/tube2/tube2.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/tube2/tube2.mtx
+21498-21498-897056
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.087040ms	Nscore v1 Gflops:5276.800020
+timecost_cuda:0.329440ms	cuda core验证程序 Gflops:1394.161836
+test matrix = /data/seery/dataset/suitesparse_collection/vsp_befref_fxm_2_4_air02/vsp_befref_fxm_2_4_air02.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/vsp_befref_fxm_2_4_air02/vsp_befref_fxm_2_4_air02.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/vsp_befref_fxm_2_4_air02/vsp_befref_fxm_2_4_air02.mtx
+14109-14109-196448
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.478208ms	Nscore v1 Gflops:210.329762
+timecost_cuda:0.285120ms	cuda core验证程序 Gflops:352.768562
+test matrix = /data/seery/dataset/suitesparse_collection/std1_Jac2/std1_Jac2.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/std1_Jac2/std1_Jac2.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/std1_Jac2/std1_Jac2.mtx
+21982-21982-1248731
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.251904ms	Nscore v1 Gflops:2538.071030
+timecost_cuda:0.590688ms	cuda core验证程序 Gflops:1082.382379
+test matrix = /data/seery/dataset/suitesparse_collection/sme3Dc/sme3Dc.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/sme3Dc/sme3Dc.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/sme3Dc/sme3Dc.mtx
+42930-42930-3148656
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:1.060864ms	Nscore v1 Gflops:1519.621662
+timecost_cuda:1.213312ms	cuda core验证程序 Gflops:1328.686960
+test matrix = /data/seery/dataset/suitesparse_collection/wathen100/wathen100.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/wathen100/wathen100.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/wathen100/wathen100.mtx
+30401-30401-471601
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.094208ms	Nscore v1 Gflops:2563.048856
+timecost_cuda:0.219840ms	cuda core验证程序 Gflops:1098.342915
+test matrix = /data/seery/dataset/suitesparse_collection/crankseg_2/crankseg_2.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/crankseg_2/crankseg_2.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/crankseg_2/crankseg_2.mtx
+63838-63838-14148858
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:1.412096ms	Nscore v1 Gflops:5130.115215
+timecost_cuda:4.881280ms	cuda core验证程序 Gflops:1484.081097
+test matrix = /data/seery/dataset/suitesparse_collection/CurlCurl_0/CurlCurl_0.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/CurlCurl_0/CurlCurl_0.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/CurlCurl_0/CurlCurl_0.mtx
+11083-11083-113343
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.039936ms	Nscore v1 Gflops:1453.115435
+timecost_cuda:0.074688ms	cuda core验证程序 Gflops:776.987121
+test matrix = /data/seery/dataset/suitesparse_collection/net125/net125.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/net125/net125.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/net125/net125.mtx
+36720-36720-2577200
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.591872ms	Nscore v1 Gflops:2229.411852
+timecost_cuda:0.964160ms	cuda core验证程序 Gflops:1368.576134
+test matrix = /data/seery/dataset/suitesparse_collection/windscreen/windscreen.mtx
+Sorry, this application does not support Market Market type: [matrix coordinate complex symmetric]
+Only sparse real-valued or pattern coordinate matrices are supported
+test matrix = /data/seery/dataset/suitesparse_collection/mycielskian15/mycielskian15.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/mycielskian15/mycielskian15.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/mycielskian15/mycielskian15.mtx
+24575-24575-11111110
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:3.962880ms	Nscore v1 Gflops:1435.543965
+timecost_cuda:7.371680ms	cuda core验证程序 Gflops:771.722116
+test matrix = /data/seery/dataset/suitesparse_collection/c-46/c-46.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/c-46/c-46.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/c-46/c-46.mtx
+14913-14913-130397
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.180224ms	Nscore v1 Gflops:370.446020
+timecost_cuda:0.229088ms	cuda core验证程序 Gflops:291.430655
+test matrix = /data/seery/dataset/suitesparse_collection/net150/net150.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/net150/net150.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/net150/net150.mtx
+43520-43520-3121200
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.686080ms	Nscore v1 Gflops:2329.253803
+timecost_cuda:1.215968ms	cuda core验证程序 Gflops:1314.224045
+test matrix = /data/seery/dataset/suitesparse_collection/mouse_gene/mouse_gene.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/mouse_gene/mouse_gene.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/mouse_gene/mouse_gene.mtx
+45101-45101-28967291
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:8.214528ms	Nscore v1 Gflops:1805.490570
+timecost_cuda:12.163424ms	cuda core验证程序 Gflops:1219.332119
+test matrix = /data/seery/dataset/suitesparse_collection/kmnist_norm_10NN/kmnist_norm_10NN.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/kmnist_norm_10NN/kmnist_norm_10NN.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/kmnist_norm_10NN/kmnist_norm_10NN.mtx
+10000-10000-156932
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.080896ms	Nscore v1 Gflops:993.240536
+timecost_cuda:0.089792ms	cuda core验证程序 Gflops:894.836796
+test matrix = /data/seery/dataset/suitesparse_collection/water_tank/water_tank.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/water_tank/water_tank.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/water_tank/water_tank.mtx
+60740-60740-2035281
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.333824ms	Nscore v1 Gflops:3121.596544
+timecost_cuda:0.781088ms	cuda core验证程序 Gflops:1334.118408
+test matrix = /data/seery/dataset/suitesparse_collection/pli/pli.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/pli/pli.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/pli/pli.mtx
+22695-22695-1350309
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.181248ms	Nscore v1 Gflops:3814.432323
+timecost_cuda:0.480512ms	cuda core验证程序 Gflops:1438.794906
+test matrix = /data/seery/dataset/suitesparse_collection/nmos3/nmos3.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/nmos3/nmos3.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/nmos3/nmos3.mtx
+18588-18588-386594
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.110592ms	Nscore v1 Gflops:1789.787034
+timecost_cuda:0.170784ms	cuda core验证程序 Gflops:1158.985221
+test matrix = /data/seery/dataset/suitesparse_collection/bcsstk31/bcsstk31.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/bcsstk31/bcsstk31.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/bcsstk31/bcsstk31.mtx
+35588-35588-1181416
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.162816ms	Nscore v1 Gflops:3715.144586
+timecost_cuda:0.462624ms	cuda core验证程序 Gflops:1307.508850
+test matrix = /data/seery/dataset/suitesparse_collection/Zd_Jac6_db/Zd_Jac6_db.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Zd_Jac6_db/Zd_Jac6_db.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Zd_Jac6_db/Zd_Jac6_db.mtx
+22835-22835-663643
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.138240ms	Nscore v1 Gflops:2457.937132
+timecost_cuda:0.315968ms	cuda core验证程序 Gflops:1075.378547
+test matrix = /data/seery/dataset/suitesparse_collection/pcrystk02/pcrystk02.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/pcrystk02/pcrystk02.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/pcrystk02/pcrystk02.mtx
+13965-13965-968583
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.099328ms	Nscore v1 Gflops:4992.696059
+timecost_cuda:0.338784ms	cuda core验证程序 Gflops:1463.807271
+test matrix = /data/seery/dataset/suitesparse_collection/case9/case9.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/case9/case9.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/case9/case9.mtx
+14454-14454-147972
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.536576ms	Nscore v1 Gflops:141.194664
+timecost_cuda:0.904768ms	cuda core验证程序 Gflops:83.736013
+test matrix = /data/seery/dataset/suitesparse_collection/garon2/garon2.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/garon2/garon2.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/garon2/garon2.mtx
+13535-13535-390607
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.102400ms	Nscore v1 Gflops:1953.035049
+timecost_cuda:0.159232ms	cuda core验证程序 Gflops:1255.971018
+test matrix = /data/seery/dataset/suitesparse_collection/copter1/copter1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/copter1/copter1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/copter1/copter1.mtx
+17222-17222-211064
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.066560ms	Nscore v1 Gflops:1623.569226
+timecost_cuda:0.113664ms	cuda core验证程序 Gflops:950.738728
+test matrix = /data/seery/dataset/suitesparse_collection/TSOPF_FS_b9_c6/TSOPF_FS_b9_c6.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/TSOPF_FS_b9_c6/TSOPF_FS_b9_c6.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/TSOPF_FS_b9_c6/TSOPF_FS_b9_c6.mtx
+14454-14454-147972
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.538624ms	Nscore v1 Gflops:140.657798
+timecost_cuda:0.902752ms	cuda core验证程序 Gflops:83.923010
+test matrix = /data/seery/dataset/suitesparse_collection/ted_AB_unscaled/ted_AB_unscaled.mtx
+Sorry, this application does not support Market Market type: [matrix coordinate complex general]
+Only sparse real-valued or pattern coordinate matrices are supported
+test matrix = /data/seery/dataset/suitesparse_collection/bundle1/bundle1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/bundle1/bundle1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/bundle1/bundle1.mtx
+10581-10581-770901
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.196608ms	Nscore v1 Gflops:2007.554616
+timecost_cuda:0.459968ms	cuda core验证程序 Gflops:858.106024
+test matrix = /data/seery/dataset/suitesparse_collection/gupta3/gupta3.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/gupta3/gupta3.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/gupta3/gupta3.mtx
+16783-16783-9323427
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:2.292736ms	Nscore v1 Gflops:2082.051537
+timecost_cuda:5.502752ms	cuda core验证程序 Gflops:867.492261
+test matrix = /data/seery/dataset/suitesparse_collection/net100/net100.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/net100/net100.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/net100/net100.mtx
+29920-29920-2033200
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.485376ms	Nscore v1 Gflops:2144.725737
+timecost_cuda:0.779328ms	cuda core验证程序 Gflops:1335.764165
+test matrix = /data/seery/dataset/suitesparse_collection/ex35/ex35.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/ex35/ex35.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/ex35/ex35.mtx
+19716-19716-228208
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.067584ms	Nscore v1 Gflops:1728.848471
+timecost_cuda:0.118688ms	cuda core验证程序 Gflops:984.450777
+test matrix = /data/seery/dataset/suitesparse_collection/stokes64s/stokes64s.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/stokes64s/stokes64s.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/stokes64s/stokes64s.mtx
+12546-12546-140034
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.044032ms	Nscore v1 Gflops:1628.302325
+timecost_cuda:0.083776ms	cuda core验证程序 Gflops:855.822794
+test matrix = /data/seery/dataset/suitesparse_collection/t3dl_a/t3dl_a.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/t3dl_a/t3dl_a.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/t3dl_a/t3dl_a.mtx
+20360-20360-509866
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.124928ms	Nscore v1 Gflops:2089.614794
+timecost_cuda:0.205120ms	cuda core验证程序 Gflops:1272.676460
+test matrix = /data/seery/dataset/suitesparse_collection/case39/case39.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/case39/case39.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/case39/case39.mtx
+40216-40216-1042160
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:2.573312ms	Nscore v1 Gflops:207.353757
+timecost_cuda:4.103648ms	cuda core验证程序 Gflops:130.027209
+test matrix = /data/seery/dataset/suitesparse_collection/Goodwin_040/Goodwin_040.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Goodwin_040/Goodwin_040.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Goodwin_040/Goodwin_040.mtx
+17922-17922-561677
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.078848ms	Nscore v1 Gflops:3647.253391
+timecost_cuda:0.220608ms	cuda core验证程序 Gflops:1303.572986
+test matrix = /data/seery/dataset/suitesparse_collection/std1_Jac2_db/std1_Jac2_db.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/std1_Jac2_db/std1_Jac2_db.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/std1_Jac2_db/std1_Jac2_db.mtx
+21982-21982-498771
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.115712ms	Nscore v1 Gflops:2206.951291
+timecost_cuda:0.257792ms	cuda core验证程序 Gflops:990.607761
+test matrix = /data/seery/dataset/suitesparse_collection/bayer10/bayer10.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/bayer10/bayer10.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/bayer10/bayer10.mtx
+13436-13436-94926
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.037888ms	Nscore v1 Gflops:1282.783728
+timecost_cuda:0.071648ms	cuda core验证程序 Gflops:678.345674
+test matrix = /data/seery/dataset/suitesparse_collection/lowThrust_10/lowThrust_10.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/lowThrust_10/lowThrust_10.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/lowThrust_10/lowThrust_10.mtx
+18260-18260-222005
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.536576ms	Nscore v1 Gflops:211.836843
+timecost_cuda:0.876320ms	cuda core验证程序 Gflops:129.708964
+test matrix = /data/seery/dataset/suitesparse_collection/bcsstk39/bcsstk39.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/bcsstk39/bcsstk39.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/bcsstk39/bcsstk39.mtx
+46772-46772-2089294
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.236544ms	Nscore v1 Gflops:4522.281421
+timecost_cuda:0.785632ms	cuda core验证程序 Gflops:1361.602517
+test matrix = /data/seery/dataset/suitesparse_collection/conf5_4-8x8-10/conf5_4-8x8-10.mtx
+Sorry, this application does not support Market Market type: [matrix coordinate complex general]
+Only sparse real-valued or pattern coordinate matrices are supported
+test matrix = /data/seery/dataset/suitesparse_collection/t3dl/t3dl.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/t3dl/t3dl.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/t3dl/t3dl.mtx
+20360-20360-509866
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.123904ms	Nscore v1 Gflops:2106.884344
+timecost_cuda:0.200736ms	cuda core验证程序 Gflops:1300.471219
+test matrix = /data/seery/dataset/suitesparse_collection/vsp_bcsstk30_500sep_10in_1Kout/vsp_bcsstk30_500sep_10in_1Kout.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/vsp_bcsstk30_500sep_10in_1Kout/vsp_bcsstk30_500sep_10in_1Kout.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/vsp_bcsstk30_500sep_10in_1Kout/vsp_bcsstk30_500sep_10in_1Kout.mtx
+58348-58348-4033156
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:1.544192ms	Nscore v1 Gflops:1337.253353
+timecost_cuda:1.690880ms	cuda core验证程序 Gflops:1221.243343
+test matrix = /data/seery/dataset/suitesparse_collection/raefsky4/raefsky4.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/raefsky4/raefsky4.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/raefsky4/raefsky4.mtx
+19779-19779-1328611
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.130048ms	Nscore v1 Gflops:5230.751696
+timecost_cuda:0.456800ms	cuda core验证程序 Gflops:1489.161146
+test matrix = /data/seery/dataset/suitesparse_collection/pkustk08/pkustk08.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/pkustk08/pkustk08.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/pkustk08/pkustk08.mtx
+22209-22209-3226671
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.424960ms	Nscore v1 Gflops:3887.555537
+timecost_cuda:1.167072ms	cuda core验证程序 Gflops:1415.555741
+test matrix = /data/seery/dataset/suitesparse_collection/skirt_id_882/skirt_id_882.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/skirt_id_882/skirt_id_882.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/skirt_id_882/skirt_id_882.mtx
+12598-12598-196520
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.053248ms	Nscore v1 Gflops:1889.615406
+timecost_cuda:0.097504ms	cuda core验证程序 Gflops:1031.939640
+test matrix = /data/seery/dataset/suitesparse_collection/ex3sta1_id_1379/ex3sta1_id_1379.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/ex3sta1_id_1379/ex3sta1_id_1379.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/ex3sta1_id_1379/ex3sta1_id_1379.mtx
+16782-16782-678998
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.206848ms	Nscore v1 Gflops:1680.688155
+timecost_cuda:0.247584ms	cuda core验证程序 Gflops:1404.157683
+test matrix = /data/seery/dataset/suitesparse_collection/gupta2/gupta2.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/gupta2/gupta2.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/gupta2/gupta2.mtx
+62064-62064-4248286
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:1.693696ms	Nscore v1 Gflops:1284.246053
+timecost_cuda:2.971808ms	cuda core验证程序 Gflops:731.918907
+test matrix = /data/seery/dataset/suitesparse_collection/net75/net75.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/net75/net75.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/net75/net75.mtx
+23120-23120-1489200
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.381952ms	Nscore v1 Gflops:1996.246713
+timecost_cuda:0.576288ms	cuda core验证程序 Gflops:1323.071832
+test matrix = /data/seery/dataset/suitesparse_collection/lowThrust_12/lowThrust_12.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/lowThrust_12/lowThrust_12.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/lowThrust_12/lowThrust_12.mtx
+18458-18458-224593
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.614400ms	Nscore v1 Gflops:187.160824
+timecost_cuda:0.852288ms	cuda core验证程序 Gflops:134.921077
+test matrix = /data/seery/dataset/suitesparse_collection/OPF_3754/OPF_3754.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/OPF_3754/OPF_3754.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/OPF_3754/OPF_3754.mtx
+15435-15435-158273
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.049152ms	Nscore v1 Gflops:1648.677025
+timecost_cuda:0.093056ms	cuda core验证程序 Gflops:870.828053
+test matrix = /data/seery/dataset/suitesparse_collection/TSOPF_RS_b300_c2/TSOPF_RS_b300_c2.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/TSOPF_RS_b300_c2/TSOPF_RS_b300_c2.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/TSOPF_RS_b300_c2/TSOPF_RS_b300_c2.mtx
+28338-28338-2943887
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.198656ms	Nscore v1 Gflops:7587.337906
+timecost_cuda:1.010080ms	cuda core验证程序 Gflops:1492.228511
+test matrix = /data/seery/dataset/suitesparse_collection/Chebyshev4/Chebyshev4.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Chebyshev4/Chebyshev4.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Chebyshev4/Chebyshev4.mtx
+68121-68121-5377761
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:9.585664ms	Nscore v1 Gflops:287.242875
+timecost_cuda:13.433760ms	cuda core验证程序 Gflops:204.962251
+test matrix = /data/seery/dataset/suitesparse_collection/pds10/pds10.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/pds10/pds10.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/pds10/pds10.mtx
+16558-16558-149658
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.071680ms	Nscore v1 Gflops:1068.985686
+timecost_cuda:0.095904ms	cuda core验证程序 Gflops:798.974974
+test matrix = /data/seery/dataset/suitesparse_collection/pkustk03/pkustk03.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/pkustk03/pkustk03.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/pkustk03/pkustk03.mtx
+63336-63336-3130416
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.304128ms	Nscore v1 Gflops:5270.060759
+timecost_cuda:1.158144ms	cuda core验证程序 Gflops:1383.915123
+test matrix = /data/seery/dataset/suitesparse_collection/lhr10c/lhr10c.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/lhr10c/lhr10c.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/lhr10c/lhr10c.mtx
+10672-10672-232633
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.050176ms	Nscore v1 Gflops:2373.806200
+timecost_cuda:0.112160ms	cuda core验证程序 Gflops:1061.948100
+test matrix = /data/seery/dataset/suitesparse_collection/mip1/mip1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/mip1/mip1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/mip1/mip1.mtx
+66463-66463-10352819
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:9.474048ms	Nscore v1 Gflops:559.490887
+timecost_cuda:13.756480ms	cuda core验证程序 Gflops:385.319736
+test matrix = /data/seery/dataset/suitesparse_collection/c-44/c-44.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/c-44/c-44.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/c-44/c-44.mtx
+10728-10728-85000
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.090112ms	Nscore v1 Gflops:482.954542
+timecost_cuda:0.134816ms	cuda core验证程序 Gflops:322.810335
+test matrix = /data/seery/dataset/suitesparse_collection/t2dah/t2dah.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/t2dah/t2dah.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/t2dah/t2dah.mtx
+11445-11445-176117
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.040960ms	Nscore v1 Gflops:2201.462556
+timecost_cuda:0.088736ms	cuda core验证程序 Gflops:1016.181779
+test matrix = /data/seery/dataset/suitesparse_collection/pesa/pesa.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/pesa/pesa.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/pesa/pesa.mtx
+11738-11738-79566
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.038912ms	Nscore v1 Gflops:1046.921099
+timecost_cuda:0.060512ms	cuda core验证程序 Gflops:673.218416
+test matrix = /data/seery/dataset/suitesparse_collection/nasasrb/nasasrb.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/nasasrb/nasasrb.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/nasasrb/nasasrb.mtx
+54870-54870-2677324
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.287744ms	Nscore v1 Gflops:4763.921946
+timecost_cuda:0.967456ms	cuda core验证程序 Gflops:1416.901556
+test matrix = /data/seery/dataset/suitesparse_collection/cbuckle/cbuckle.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/cbuckle/cbuckle.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/cbuckle/cbuckle.mtx
+13681-13681-676515
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.062464ms	Nscore v1 Gflops:5545.205025
+timecost_cuda:0.246080ms	cuda core验证程序 Gflops:1407.573494
+test matrix = /data/seery/dataset/suitesparse_collection/pkustk01/pkustk01.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/pkustk01/pkustk01.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/pkustk01/pkustk01.mtx
+22044-22044-979380
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.124928ms	Nscore v1 Gflops:4013.852536
+timecost_cuda:0.359712ms	cuda core验证程序 Gflops:1394.011191
+test matrix = /data/seery/dataset/suitesparse_collection/g7jac080sc/g7jac080sc.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/g7jac080sc/g7jac080sc.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/g7jac080sc/g7jac080sc.mtx
+23670-23670-293976
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.109568ms	Nscore v1 Gflops:1373.719628
+timecost_cuda:0.165728ms	cuda core验证程序 Gflops:908.209292
+test matrix = /data/seery/dataset/suitesparse_collection/c-43/c-43.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/c-43/c-43.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/c-43/c-43.mtx
+11125-11125-123675
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.252928ms	Nscore v1 Gflops:250.354262
+timecost_cuda:0.397920ms	cuda core验证程序 Gflops:159.131479
+test matrix = /data/seery/dataset/suitesparse_collection/ship_003/ship_003.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/ship_003/ship_003.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/ship_003/ship_003.mtx
+121728-121728-8086034
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.771072ms	Nscore v1 Gflops:5369.212689
+timecost_cuda:2.912192ms	cuda core验证程序 Gflops:1421.626478
+test matrix = /data/seery/dataset/suitesparse_collection/Ga19As19H42/Ga19As19H42.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Ga19As19H42/Ga19As19H42.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Ga19As19H42/Ga19As19H42.mtx
+133123-133123-8884839
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:1.538048ms	Nscore v1 Gflops:2957.669385
+timecost_cuda:3.913024ms	cuda core验证程序 Gflops:1162.537625
+test matrix = /data/seery/dataset/suitesparse_collection/Fashion_MNIST_norm_10NN/Fashion_MNIST_norm_10NN.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Fashion_MNIST_norm_10NN/Fashion_MNIST_norm_10NN.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Fashion_MNIST_norm_10NN/Fashion_MNIST_norm_10NN.mtx
+10000-10000-158304
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.080896ms	Nscore v1 Gflops:1001.924081
+timecost_cuda:0.085600ms	cuda core验证程序 Gflops:946.865007
+test matrix = /data/seery/dataset/suitesparse_collection/crystk03/crystk03.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/crystk03/crystk03.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/crystk03/crystk03.mtx
+24696-24696-1751178
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.169984ms	Nscore v1 Gflops:5274.632594
+timecost_cuda:0.622048ms	cuda core验证程序 Gflops:1441.372863
+test matrix = /data/seery/dataset/suitesparse_collection/conf6_0-8x8-30/conf6_0-8x8-30.mtx
+Sorry, this application does not support Market Market type: [matrix coordinate complex general]
+Only sparse real-valued or pattern coordinate matrices are supported
+test matrix = /data/seery/dataset/suitesparse_collection/TSOPF_RS_b162_c3/TSOPF_RS_b162_c3.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/TSOPF_RS_b162_c3/TSOPF_RS_b162_c3.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/TSOPF_RS_b162_c3/TSOPF_RS_b162_c3.mtx
+15374-15374-610299
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.069632ms	Nscore v1 Gflops:4487.492568
+timecost_cuda:0.234848ms	cuda core验证程序 Gflops:1330.533357
+test matrix = /data/seery/dataset/suitesparse_collection/cage10/cage10.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/cage10/cage10.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/cage10/cage10.mtx
+11397-11397-150645
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.067584ms	Nscore v1 Gflops:1141.249991
+timecost_cuda:0.085088ms	cuda core验证程序 Gflops:906.476122
+test matrix = /data/seery/dataset/suitesparse_collection/lowThrust_4/lowThrust_4.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/lowThrust_4/lowThrust_4.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/lowThrust_4/lowThrust_4.mtx
+13562-13562-160947
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.474112ms	Nscore v1 Gflops:173.808854
+timecost_cuda:0.649152ms	cuda core验证程序 Gflops:126.942328
+test matrix = /data/seery/dataset/suitesparse_collection/ca-HepPh/ca-HepPh.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/ca-HepPh/ca-HepPh.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/ca-HepPh/ca-HepPh.mtx
+12008-12008-237010
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.141312ms	Nscore v1 Gflops:858.731865
+timecost_cuda:0.159616ms	cuda core验证程序 Gflops:760.256647
+test matrix = /data/seery/dataset/suitesparse_collection/pkustk13/pkustk13.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/pkustk13/pkustk13.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/pkustk13/pkustk13.mtx
+94893-94893-6616827
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.821248ms	Nscore v1 Gflops:4125.203891
+timecost_cuda:2.432832ms	cuda core验证程序 Gflops:1392.539814
+test matrix = /data/seery/dataset/suitesparse_collection/pkustk11/pkustk11.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/pkustk11/pkustk11.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/pkustk11/pkustk11.mtx
+87804-87804-5217912
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.494592ms	Nscore v1 Gflops:5401.565098
+timecost_cuda:1.885440ms	cuda core验证程序 Gflops:1416.948275
+test matrix = /data/seery/dataset/suitesparse_collection/chipcool0/chipcool0.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/chipcool0/chipcool0.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/chipcool0/chipcool0.mtx
+20082-20082-281150
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.118784ms	Nscore v1 Gflops:1211.853418
+timecost_cuda:0.137216ms	cuda core验证程序 Gflops:1049.067151
+test matrix = /data/seery/dataset/suitesparse_collection/appu/appu.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/appu/appu.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/appu/appu.mtx
+14000-14000-1853104
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.718848ms	Nscore v1 Gflops:1319.874662
+timecost_cuda:0.658400ms	cuda core验证程序 Gflops:1441.052930
+test matrix = /data/seery/dataset/suitesparse_collection/ramage02/ramage02.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/ramage02/ramage02.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/ramage02/ramage02.mtx
+16830-16830-2866352
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.252928ms	Nscore v1 Gflops:5802.332241
+timecost_cuda:0.975200ms	cuda core验证程序 Gflops:1504.893589
+test matrix = /data/seery/dataset/suitesparse_collection/igbt3/igbt3.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/igbt3/igbt3.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/igbt3/igbt3.mtx
+10938-10938-234006
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.075776ms	Nscore v1 Gflops:1581.121553
+timecost_cuda:0.112480ms	cuda core验证程序 Gflops:1065.176675
+test matrix = /data/seery/dataset/suitesparse_collection/c-47/c-47.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/c-47/c-47.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/c-47/c-47.mtx
+15343-15343-211401
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.222208ms	Nscore v1 Gflops:487.099093
+timecost_cuda:0.337760ms	cuda core验证程序 Gflops:320.456275
+test matrix = /data/seery/dataset/suitesparse_collection/bcsstk25/bcsstk25.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/bcsstk25/bcsstk25.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/bcsstk25/bcsstk25.mtx
+15439-15439-252241
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.059392ms	Nscore v1 Gflops:2174.491325
+timecost_cuda:0.118624ms	cuda core验证程序 Gflops:1088.712150
+test matrix = /data/seery/dataset/suitesparse_collection/conf6_0-8x8-20/conf6_0-8x8-20.mtx
+Sorry, this application does not support Market Market type: [matrix coordinate complex general]
+Only sparse real-valued or pattern coordinate matrices are supported
+test matrix = /data/seery/dataset/suitesparse_collection/g7jac040/g7jac040.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/g7jac040/g7jac040.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/g7jac040/g7jac040.mtx
+11790-11790-114671
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.058368ms	Nscore v1 Gflops:1005.885945
+timecost_cuda:0.085312ms	cuda core验证程序 Gflops:688.198038
+test matrix = /data/seery/dataset/suitesparse_collection/std1_Jac3/std1_Jac3.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/std1_Jac3/std1_Jac3.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/std1_Jac3/std1_Jac3.mtx
+21982-21982-1455848
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.302080ms	Nscore v1 Gflops:2467.538939
+timecost_cuda:0.705408ms	cuda core验证程序 Gflops:1056.685209
+test matrix = /data/seery/dataset/suitesparse_collection/TSOPF_RS_b39_c7/TSOPF_RS_b39_c7.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/TSOPF_RS_b39_c7/TSOPF_RS_b39_c7.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/TSOPF_RS_b39_c7/TSOPF_RS_b39_c7.mtx
+14098-14098-252446
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.045056ms	Nscore v1 Gflops:2868.704523
+timecost_cuda:0.118976ms	cuda core验证程序 Gflops:1086.373347
+test matrix = /data/seery/dataset/suitesparse_collection/TSOPF_RS_b162_c4/TSOPF_RS_b162_c4.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/TSOPF_RS_b162_c4/TSOPF_RS_b162_c4.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/TSOPF_RS_b162_c4/TSOPF_RS_b162_c4.mtx
+20374-20374-812749
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.086016ms	Nscore v1 Gflops:4837.791705
+timecost_cuda:0.300064ms	cuda core验证程序 Gflops:1386.795788
+test matrix = /data/seery/dataset/suitesparse_collection/TSOPF_RS_b678_c1/TSOPF_RS_b678_c1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/TSOPF_RS_b678_c1/TSOPF_RS_b678_c1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/TSOPF_RS_b678_c1/TSOPF_RS_b678_c1.mtx
+18696-18696-4396289
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.277504ms	Nscore v1 Gflops:8111.234402
+timecost_cuda:1.474464ms	cuda core验证程序 Gflops:1526.588562
+test matrix = /data/seery/dataset/suitesparse_collection/av41092/av41092.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/av41092/av41092.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/av41092/av41092.mtx
+41092-41092-1683902
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.480256ms	Nscore v1 Gflops:1795.204724
+timecost_cuda:1.015744ms	cuda core验证程序 Gflops:848.794429
+test matrix = /data/seery/dataset/suitesparse_collection/fxm4_6_id_1381/fxm4_6_id_1381.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/fxm4_6_id_1381/fxm4_6_id_1381.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/fxm4_6_id_1381/fxm4_6_id_1381.mtx
+18892-18892-497844
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.122880ms	Nscore v1 Gflops:2074.350052
+timecost_cuda:0.221312ms	cuda core验证程序 Gflops:1151.750138
+test matrix = /data/seery/dataset/suitesparse_collection/Si34H36/Si34H36.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Si34H36/Si34H36.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Si34H36/Si34H36.mtx
+97569-97569-5156379
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:1.030144ms	Nscore v1 Gflops:2562.812683
+timecost_cuda:2.221920ms	cuda core验证程序 Gflops:1188.191308
+test matrix = /data/seery/dataset/suitesparse_collection/oilpan/oilpan.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/oilpan/oilpan.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/oilpan/oilpan.mtx
+73752-73752-3597188
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.285696ms	Nscore v1 Gflops:6446.573480
+timecost_cuda:1.294208ms	cuda core验证程序 Gflops:1423.078968
+test matrix = /data/seery/dataset/suitesparse_collection/nd12k/nd12k.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/nd12k/nd12k.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/nd12k/nd12k.mtx
+36000-36000-14220946
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.923648ms	Nscore v1 Gflops:7883.007763
+timecost_cuda:4.617568ms	cuda core验证程序 Gflops:1576.830991
+test matrix = /data/seery/dataset/suitesparse_collection/Zd_Jac6/Zd_Jac6.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Zd_Jac6/Zd_Jac6.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Zd_Jac6/Zd_Jac6.mtx
+22835-22835-1711983
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.319488ms	Nscore v1 Gflops:2743.562595
+timecost_cuda:0.897152ms	cuda core验证程序 Gflops:977.019824
+test matrix = /data/seery/dataset/suitesparse_collection/Ge87H76/Ge87H76.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Ge87H76/Ge87H76.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Ge87H76/Ge87H76.mtx
+112985-112985-7892195
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:1.364992ms	Nscore v1 Gflops:2960.313154
+timecost_cuda:3.246048ms	cuda core验证程序 Gflops:1244.837992
+test matrix = /data/seery/dataset/suitesparse_collection/sinc18/sinc18.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/sinc18/sinc18.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/sinc18/sinc18.mtx
+16428-16428-973826
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.274432ms	Nscore v1 Gflops:1816.839529
+timecost_cuda:0.345888ms	cuda core验证程序 Gflops:1441.503979
+test matrix = /data/seery/dataset/suitesparse_collection/Zd_Jac3/Zd_Jac3.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Zd_Jac3/Zd_Jac3.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Zd_Jac3/Zd_Jac3.mtx
+22835-22835-1916152
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.355328ms	Nscore v1 Gflops:2761.025986
+timecost_cuda:0.903520ms	cuda core验证程序 Gflops:1085.830792
+test matrix = /data/seery/dataset/suitesparse_collection/lowThrust_9/lowThrust_9.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/lowThrust_9/lowThrust_9.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/lowThrust_9/lowThrust_9.mtx
+18044-18044-219589
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.565248ms	Nscore v1 Gflops:198.903075
+timecost_cuda:0.851392ms	cuda core验证程序 Gflops:132.053827
+test matrix = /data/seery/dataset/suitesparse_collection/lhr17c/lhr17c.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/lhr17c/lhr17c.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/lhr17c/lhr17c.mtx
+17576-17576-381975
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.068608ms	Nscore v1 Gflops:2850.559665
+timecost_cuda:0.173664ms	cuda core验证程序 Gflops:1126.147019
+test matrix = /data/seery/dataset/suitesparse_collection/lowThrust_6/lowThrust_6.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/lowThrust_6/lowThrust_6.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/lowThrust_6/lowThrust_6.mtx
+16928-16928-207349
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.520192ms	Nscore v1 Gflops:204.083651
+timecost_cuda:0.793952ms	cuda core验证程序 Gflops:133.714242
+test matrix = /data/seery/dataset/suitesparse_collection/sparsine/sparsine.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/sparsine/sparsine.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/sparsine/sparsine.mtx
+50000-50000-1548988
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.619520ms	Nscore v1 Gflops:1280.155354
+timecost_cuda:0.694464ms	cuda core验证程序 Gflops:1142.005668
+test matrix = /data/seery/dataset/suitesparse_collection/pkustk02/pkustk02.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/pkustk02/pkustk02.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/pkustk02/pkustk02.mtx
+10800-10800-810000
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.089088ms	Nscore v1 Gflops:4655.172395
+timecost_cuda:0.288608ms	cuda core验证程序 Gflops:1436.966332
+test matrix = /data/seery/dataset/suitesparse_collection/g7jac080/g7jac080.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/g7jac080/g7jac080.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/g7jac080/g7jac080.mtx
+23670-23670-293976
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.109568ms	Nscore v1 Gflops:1373.719628
+timecost_cuda:0.167744ms	cuda core验证程序 Gflops:897.294185
+test matrix = /data/seery/dataset/suitesparse_collection/pkustk12/pkustk12.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/pkustk12/pkustk12.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/pkustk12/pkustk12.mtx
+94653-94653-7512317
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:1.562624ms	Nscore v1 Gflops:2461.440730
+timecost_cuda:3.273472ms	cuda core验证程序 Gflops:1174.992858
+test matrix = /data/seery/dataset/suitesparse_collection/skirt_id_764/skirt_id_764.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/skirt_id_764/skirt_id_764.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/skirt_id_764/skirt_id_764.mtx
+12598-12598-196520
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.052224ms	Nscore v1 Gflops:1926.666702
+timecost_cuda:0.099520ms	cuda core验证程序 Gflops:1011.035392
+test matrix = /data/seery/dataset/suitesparse_collection/conf5_4-8x8-20/conf5_4-8x8-20.mtx
+Sorry, this application does not support Market Market type: [matrix coordinate complex general]
+Only sparse real-valued or pattern coordinate matrices are supported
+test matrix = /data/seery/dataset/suitesparse_collection/TSOPF_FS_b300/TSOPF_FS_b300.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/TSOPF_FS_b300/TSOPF_FS_b300.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/TSOPF_FS_b300/TSOPF_FS_b300.mtx
+29214-29214-4400122
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:2.077696ms	Nscore v1 Gflops:1084.307989
+timecost_cuda:4.109792ms	cuda core验证程序 Gflops:548.169430
+test matrix = /data/seery/dataset/suitesparse_collection/pcrystk03/pcrystk03.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/pcrystk03/pcrystk03.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/pcrystk03/pcrystk03.mtx
+24696-24696-1751178
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.167936ms	Nscore v1 Gflops:5338.957405
+timecost_cuda:0.614784ms	cuda core验证程序 Gflops:1458.403492
+test matrix = /data/seery/dataset/suitesparse_collection/hangGlider_5/hangGlider_5.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/hangGlider_5/hangGlider_5.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/hangGlider_5/hangGlider_5.mtx
+16011-16011-155246
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:1.028096ms	Nscore v1 Gflops:77.313748
+timecost_cuda:1.548032ms	cuda core验证程序 Gflops:51.346451
+test matrix = /data/seery/dataset/suitesparse_collection/3D_28984_Tetra/3D_28984_Tetra.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/3D_28984_Tetra/3D_28984_Tetra.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/3D_28984_Tetra/3D_28984_Tetra.mtx
+28984-28984-599170
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.974848ms	Nscore v1 Gflops:314.690135
+timecost_cuda:0.726944ms	cuda core验证程序 Gflops:422.006410
+test matrix = /data/seery/dataset/suitesparse_collection/crystm03/crystm03.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/crystm03/crystm03.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/crystm03/crystm03.mtx
+24696-24696-583770
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.151552ms	Nscore v1 Gflops:1972.195860
+timecost_cuda:0.242656ms	cuda core验证程序 Gflops:1231.744654
+test matrix = /data/seery/dataset/suitesparse_collection/lhr14c/lhr14c.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/lhr14c/lhr14c.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/lhr14c/lhr14c.mtx
+14270-14270-307858
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.057344ms	Nscore v1 Gflops:2748.732105
+timecost_cuda:0.143264ms	cuda core验证程序 Gflops:1100.229651
+test matrix = /data/seery/dataset/suitesparse_collection/lhr10/lhr10.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/lhr10/lhr10.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/lhr10/lhr10.mtx
+10672-10672-232633
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.049152ms	Nscore v1 Gflops:2423.260331
+timecost_cuda:0.117536ms	cuda core验证程序 Gflops:1013.375435
+test matrix = /data/seery/dataset/suitesparse_collection/conf5_4-8x8-05/conf5_4-8x8-05.mtx
+Sorry, this application does not support Market Market type: [matrix coordinate complex general]
+Only sparse real-valued or pattern coordinate matrices are supported
+test matrix = /data/seery/dataset/suitesparse_collection/m_t1/m_t1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/m_t1/m_t1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/m_t1/m_t1.mtx
+97578-97578-9753570
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.729088ms	Nscore v1 Gflops:6849.417056
+timecost_cuda:3.338912ms	cuda core验证程序 Gflops:1495.645236
+test matrix = /data/seery/dataset/suitesparse_collection/lowThrust_11/lowThrust_11.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/lowThrust_11/lowThrust_11.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/lowThrust_11/lowThrust_11.mtx
+18368-18368-223801
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.644096ms	Nscore v1 Gflops:177.902221
+timecost_cuda:0.880896ms	cuda core验证程序 Gflops:130.079051
+test matrix = /data/seery/dataset/suitesparse_collection/TSOPF_RS_b2383_c1/TSOPF_RS_b2383_c1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/TSOPF_RS_b2383_c1/TSOPF_RS_b2383_c1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/TSOPF_RS_b2383_c1/TSOPF_RS_b2383_c1.mtx
+38120-38120-16171169
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.838656ms	Nscore v1 Gflops:9872.508450
+timecost_cuda:5.378112ms	cuda core验证程序 Gflops:1539.506573
+test matrix = /data/seery/dataset/suitesparse_collection/tandem_vtx/tandem_vtx.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/tandem_vtx/tandem_vtx.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/tandem_vtx/tandem_vtx.mtx
+18454-18454-253350
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.074752ms	Nscore v1 Gflops:1735.273904
+timecost_cuda:0.125312ms	cuda core验证程序 Gflops:1035.137892
+test matrix = /data/seery/dataset/suitesparse_collection/pct20stif/pct20stif.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/pct20stif/pct20stif.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/pct20stif/pct20stif.mtx
+52329-52329-2698463
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.272384ms	Nscore v1 Gflops:5072.299097
+timecost_cuda:0.979680ms	cuda core验证程序 Gflops:1410.269735
+test matrix = /data/seery/dataset/suitesparse_collection/ct20stif/ct20stif.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/ct20stif/ct20stif.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/ct20stif/ct20stif.mtx
+52329-52329-2698463
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.274432ms	Nscore v1 Gflops:5034.445831
+timecost_cuda:0.975904ms	cuda core验证程序 Gflops:1415.726417
+test matrix = /data/seery/dataset/suitesparse_collection/cz10228/cz10228.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/cz10228/cz10228.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/cz10228/cz10228.mtx
+10228-10228-102876
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.043008ms	Nscore v1 Gflops:1224.714295
+timecost_cuda:0.070336ms	cuda core验证程序 Gflops:748.869891
+test matrix = /data/seery/dataset/suitesparse_collection/Goodwin_071/Goodwin_071.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/Goodwin_071/Goodwin_071.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/Goodwin_071/Goodwin_071.mtx
+56021-56021-1797934
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.228352ms	Nscore v1 Gflops:4031.242235
+timecost_cuda:0.695424ms	cuda core验证程序 Gflops:1323.713563
+test matrix = /data/seery/dataset/suitesparse_collection/bloweybq/bloweybq.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/bloweybq/bloweybq.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/bloweybq/bloweybq.mtx
+10001-10001-69991
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.733184ms	Nscore v1 Gflops:48.876398
+timecost_cuda:1.198496ms	cuda core验证程序 Gflops:29.900302
+test matrix = /data/seery/dataset/suitesparse_collection/pkustk04/pkustk04.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/pkustk04/pkustk04.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/pkustk04/pkustk04.mtx
+55590-55590-4218660
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.900096ms	Nscore v1 Gflops:2399.692835
+timecost_cuda:2.027200ms	cuda core验证程序 Gflops:1065.486354
+test matrix = /data/seery/dataset/suitesparse_collection/bcsstk36/bcsstk36.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/bcsstk36/bcsstk36.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/bcsstk36/bcsstk36.mtx
+23052-23052-1143140
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.115712ms	Nscore v1 Gflops:5058.141509
+timecost_cuda:0.411168ms	cuda core验证程序 Gflops:1423.475726
+test matrix = /data/seery/dataset/suitesparse_collection/pkustk07/pkustk07.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/pkustk07/pkustk07.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/pkustk07/pkustk07.mtx
+16860-16860-2418804
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.291840ms	Nscore v1 Gflops:4243.515978
+timecost_cuda:0.813216ms	cuda core验证程序 Gflops:1522.876692
+test matrix = /data/seery/dataset/suitesparse_collection/kron_g500-logn17/kron_g500-logn17.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/kron_g500-logn17/kron_g500-logn17.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/kron_g500-logn17/kron_g500-logn17.mtx
+131072-131072-10228360
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:7.239680ms	Nscore v1 Gflops:723.363526
+timecost_cuda:9.532768ms	cuda core验证程序 Gflops:549.359869
+test matrix = /data/seery/dataset/suitesparse_collection/TSOPF_FS_b162_c4/TSOPF_FS_b162_c4.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/TSOPF_FS_b162_c4/TSOPF_FS_b162_c4.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/TSOPF_FS_b162_c4/TSOPF_FS_b162_c4.mtx
+40798-40798-2398220
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:2.650112ms	Nscore v1 Gflops:463.334636
+timecost_cuda:5.804768ms	cuda core验证程序 Gflops:211.531042
+test matrix = /data/seery/dataset/suitesparse_collection/cyl6/cyl6.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/cyl6/cyl6.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/cyl6/cyl6.mtx
+13681-13681-714241
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.059392ms	Nscore v1 Gflops:6157.249847
+timecost_cuda:0.256448ms	cuda core验证程序 Gflops:1425.986520
+test matrix = /data/seery/dataset/suitesparse_collection/mnist_test_norm_10NN/mnist_test_norm_10NN.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/mnist_test_norm_10NN/mnist_test_norm_10NN.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/mnist_test_norm_10NN/mnist_test_norm_10NN.mtx
+10000-10000-145600
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.074752ms	Nscore v1 Gflops:997.260235
+timecost_cuda:0.078528ms	cuda core验证程序 Gflops:949.307230
+test matrix = /data/seery/dataset/suitesparse_collection/nd24k/nd24k.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/nd24k/nd24k.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/nd24k/nd24k.mtx
+72000-72000-28715634
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:1.794048ms	Nscore v1 Gflops:8195.101248
+timecost_cuda:9.462272ms	cuda core验证程序 Gflops:1553.792270
+test matrix = /data/seery/dataset/suitesparse_collection/windtunnel_evap3d/windtunnel_evap3d.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/windtunnel_evap3d/windtunnel_evap3d.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/windtunnel_evap3d/windtunnel_evap3d.mtx
+40816-40816-2730600
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.624640ms	Nscore v1 Gflops:2238.196765
+timecost_cuda:1.028416ms	cuda core验证程序 Gflops:1359.437376
+test matrix = /data/seery/dataset/suitesparse_collection/gyro_m/gyro_m.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/gyro_m/gyro_m.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/gyro_m/gyro_m.mtx
+17361-17361-340431
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.115712ms	Nscore v1 Gflops:1506.331833
+timecost_cuda:0.154304ms	cuda core验证程序 Gflops:1129.592717
+test matrix = /data/seery/dataset/suitesparse_collection/mosfet2/mosfet2.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/mosfet2/mosfet2.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/mosfet2/mosfet2.mtx
+46994-46994-1499460
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.540672ms	Nscore v1 Gflops:1419.943171
+timecost_cuda:0.630400ms	cuda core验证程序 Gflops:1217.835529
+test matrix = /data/seery/dataset/suitesparse_collection/ca-AstroPh/ca-AstroPh.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/ca-AstroPh/ca-AstroPh.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/ca-AstroPh/ca-AstroPh.mtx
+18772-18772-396160
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.195584ms	Nscore v1 Gflops:1037.068067
+timecost_cuda:0.215328ms	cuda core验证程序 Gflops:941.976550
+test matrix = /data/seery/dataset/suitesparse_collection/TSOPF_RS_b2383/TSOPF_RS_b2383.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/TSOPF_RS_b2383/TSOPF_RS_b2383.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/TSOPF_RS_b2383/TSOPF_RS_b2383.mtx
+38120-38120-16171169
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.841728ms	Nscore v1 Gflops:9836.477821
+timecost_cuda:5.375648ms	cuda core验证程序 Gflops:1540.212174
+test matrix = /data/seery/dataset/suitesparse_collection/FEM_3D_thermal1/FEM_3D_thermal1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/FEM_3D_thermal1/FEM_3D_thermal1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/FEM_3D_thermal1/FEM_3D_thermal1.mtx
+17880-17880-430740
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.080896ms	Nscore v1 Gflops:2726.202613
+timecost_cuda:0.168992ms	cuda core验证程序 Gflops:1305.025580
+test matrix = /data/seery/dataset/suitesparse_collection/olafu/olafu.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/olafu/olafu.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/olafu/olafu.mtx
+16146-16146-1015156
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.093184ms	Nscore v1 Gflops:5577.780115
+timecost_cuda:0.347424ms	cuda core验证程序 Gflops:1496.039051
+test matrix = /data/seery/dataset/suitesparse_collection/pattern1/pattern1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/pattern1/pattern1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/pattern1/pattern1.mtx
+19242-19242-9323432
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:3.701760ms	Nscore v1 Gflops:1289.547976
+timecost_cuda:4.347904ms	cuda core验证程序 Gflops:1097.907626
+test matrix = /data/seery/dataset/suitesparse_collection/ex19/ex19.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/ex19/ex19.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/ex19/ex19.mtx
+12005-12005-259879
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.062464ms	Nscore v1 Gflops:2130.155779
+timecost_cuda:0.123424ms	cuda core验证程序 Gflops:1078.056512
+test matrix = /data/seery/dataset/suitesparse_collection/gyro_k/gyro_k.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/gyro_k/gyro_k.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/gyro_k/gyro_k.mtx
+17361-17361-1021159
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.136192ms	Nscore v1 Gflops:3838.943780
+timecost_cuda:0.369824ms	cuda core验证程序 Gflops:1413.735774
+test matrix = /data/seery/dataset/suitesparse_collection/sme3Db/sme3Db.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/sme3Db/sme3Db.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/sme3Db/sme3Db.mtx
+29067-29067-2081063
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.763904ms	Nscore v1 Gflops:1394.814388
+timecost_cuda:0.792288ms	cuda core验证程序 Gflops:1344.844613
+test matrix = /data/seery/dataset/suitesparse_collection/chipcool1/chipcool1.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/chipcool1/chipcool1.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/chipcool1/chipcool1.mtx
+20082-20082-281150
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.118784ms	Nscore v1 Gflops:1211.853418
+timecost_cuda:0.132960ms	cuda core验证程序 Gflops:1082.647359
+test matrix = /data/seery/dataset/suitesparse_collection/shipsec8/shipsec8.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/shipsec8/shipsec8.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/shipsec8/shipsec8.mtx
+114919-114919-6653399
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.626688ms	Nscore v1 Gflops:5435.783466
+timecost_cuda:2.422976ms	cuda core验证程序 Gflops:1405.932318
+test matrix = /data/seery/dataset/suitesparse_collection/FA/FA.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/FA/FA.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/FA/FA.mtx
+10617-10617-72176
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.050176ms	Nscore v1 Gflops:736.489820
+timecost_cuda:0.058528ms	cuda core验证程序 Gflops:631.392032
+test matrix = /data/seery/dataset/suitesparse_collection/ex11/ex11.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/ex11/ex11.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/ex11/ex11.mtx
+16614-16614-1096948
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.122880ms	Nscore v1 Gflops:4570.616782
+timecost_cuda:0.419488ms	cuda core验证程序 Gflops:1338.863946
+test matrix = /data/seery/dataset/suitesparse_collection/ted_B_unscaled/ted_B_unscaled.mtx
+- Reading sparse matrix from file: /data/seery/dataset/suitesparse_collection/ted_B_unscaled/ted_B_unscaled.mtx
+- Finish Reading data from /data/seery/dataset/suitesparse_collection/ted_B_unscaled/ted_B_unscaled.mtx
+10605-10605-144579
+creat dense matrix success!
+
+
+creat rec dense matrix CPU and GPU success!
+
+
+timecost_Nscore:0.039936ms	Nscore v1 Gflops:1853.576987
+timecost_cuda:0.087968ms	cuda core验证程序 Gflops:841.492913
