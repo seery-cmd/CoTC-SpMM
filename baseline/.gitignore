@@ -1,0 +1,11 @@
+# Ignore files ending with .log
+*.log
+*.out
+
+# Ignore python build artifacts
+**/build/
+**/dist/
+**/*.egg-info/
+
+# Ignore python cache
+**/__pycache__/
