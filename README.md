@@ -23,7 +23,7 @@ CUDA kernel:
 
 And TC kernel:
 
-![TC kernel](TC Kernel.pdf)
+![TC kernel](TC kernel.pdf)
 
 Experimental results on NVIDIA A100 and H800 GPUs demonstrate that CoTC-SpMM achieves substantial performance speedups over state-of-the-art implementations.
 
