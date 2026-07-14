@@ -21,11 +21,11 @@ At the same time, we designed two PTX kernels.
 
 CUDA kernel:
 
-![CUDA kernel](CUDA kernel.pdf)
+![CUDA kernel](CUDA.pdf)
 
 And TC kernel:
 
-![TC kernel](TC kernel.pdf)
+![TC kernel](TC.pdf)
 
 Experimental results on NVIDIA A100 and H800 GPUs demonstrate that CoTC-SpMM achieves substantial performance speedups over state-of-the-art implementations.
 
