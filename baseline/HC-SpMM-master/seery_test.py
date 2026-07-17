@@ -56,4 +56,25 @@ print("Gflops={:.3f}".format(num_edges/1e6/time_cost*2.0*args.dim))
 #重新编写了single kernel 内核
 #区分cuda还是tensor执行的方式只是一个简单的判别式
 
+dim=256   #对应hybrid_all_kernel.cu里面
+mtx="/data/suitesparse_collection/pwtk/pwtk.mtx"
+#mtx文件读取
+matrix_csr = mmread(mtx).tocsr()
+rows, cols = matrix_csr.shape#node
+nnz = matrix_csr.nnz#nnz
+print(matrix_csr.shape,matrix_csr.nnz)
+col_idx_tensor,row_ptr_tensor = torch.tensor(matrix_csr.indices, dtype=torch.int32),torch.tensor(matrix_csr.indptr, dtype=torch.int32)
+col_idx_tensor,row_ptr_tensor = col_idx_tensor.cuda(),row_ptr_tensor.cuda()#colIdx,rowPtr
+num_row_windows_mtx = (rows + BLK_H - 1) // BLK_H
+#预处理2
+start = time.perf_counter()
+blockPartition_mtx, edgeToColumn_mtx, edgeToRow_mtx, hybrid_type_mtx, row_nzr_mtx, col_nzr_mtx = HCSPMM.preprocess(col_idx_tensor, row_ptr_tensor, rows, matrix_csr.nnz, num_row_windows_mtx)
+build_neighbor_parts = time.perf_counter() - start
+print("Prep. (ms):\t{:.3f}".format(build_neighbor_parts*1e3))
+
+SAG_obj = SAG(row_ptr_tensor, col_idx_tensor,blockPartition_mtx, edgeToColumn_mtx, edgeToRow_mtx, hybrid_type_mtx, row_nzr_mtx, col_nzr_mtx)
+X = torch.randn(rows, dim).cuda()
+time_cost = SAG_obj.profile(X)
+print("Gflops={:.3f}".format(nnz/1e6/time_cost*2.0*dim))
+
 exit(0)
